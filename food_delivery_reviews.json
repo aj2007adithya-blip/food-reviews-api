@@ -1,0 +1,3502 @@
+[
+    {
+        "date": "2025-03-16",
+        "user_email": "alyssa79@hotmail.com",
+        "user_id": "6cfed0d2-4167-4115-a913-ff805054c299",
+        "review_text": "Food arrived hot and well packed. App keeps crashing when I try to checkout.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-22",
+        "user_email": "plopez@yahoo.com",
+        "user_id": "3b8601d2-cc1a-4c94-bfb7-4cf651ec1e71",
+        "review_text": "Loved the quick delivery and fresh food! App freezes when applying coupons.",
+        "rating": 2
+    },
+    {
+        "date": "2025-07-12",
+        "user_email": "melissachapman@hotmail.com",
+        "user_id": "7377a821-105c-49b7-a403-7aa435d843c8",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-07",
+        "user_email": "jonathoncamacho@garcia-brady.biz",
+        "user_id": "fbc6186a-8679-4582-844d-efe17aa2ccc1",
+        "review_text": "I use this app almost daily, very reliable. Notifications don\u2019t work properly.",
+        "rating": 1
+    },
+    {
+        "date": "2025-08-16",
+        "user_email": "youngmichele@jackson.biz",
+        "user_id": "1b29ed79-05f8-47fa-a3a5-0a03705c3f9b",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. App freezes when applying coupons.",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-25",
+        "user_email": "cindylee@clark.net",
+        "user_id": "5cd6ba87-b87d-4bbc-8cf4-fe03dba9988d",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-29",
+        "user_email": "brandonowen@spears.com",
+        "user_id": "6a897b3f-36ed-403f-b70b-83bc664106aa",
+        "review_text": "Amazing app, really easy to use. Please add more payment options like PayPal.",
+        "rating": 3
+    },
+    {
+        "date": "2025-07-04",
+        "user_email": "brownjasmine@yahoo.com",
+        "user_id": "17243075-c56a-474f-a062-17570ea268db",
+        "review_text": "Loved the quick delivery and fresh food! It would be nice to schedule orders for later.",
+        "rating": 4
+    },
+    {
+        "date": "2025-08-11",
+        "user_email": "jasonmoore@hotmail.com",
+        "user_id": "81894c9d-4064-41aa-bbdc-aef5b99d0714",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-19",
+        "user_email": "lisa26@hotmail.com",
+        "user_id": "3712b962-6984-440f-aaa8-6fb4bfaaf79c",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-10",
+        "user_email": "crystalanderson@hill-white.com",
+        "user_id": "51fd4f61-c491-4e7f-a276-4121f1db4410",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Add a filter to search for healthier options.",
+        "rating": 4
+    },
+    {
+        "date": "2025-04-27",
+        "user_email": "guzmandavid@manning.info",
+        "user_id": "1a5e5bf9-3eae-40bc-8ee6-ba5d381af015",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-14",
+        "user_email": "hollymoss@moore.com",
+        "user_id": "c4c7400b-fcab-481f-8ba2-8c74077e0fc6",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 3
+    },
+    {
+        "date": "2025-06-02",
+        "user_email": "autumnhowell@gmail.com",
+        "user_id": "9798a314-efdb-4fd5-9e87-19d9d35d0781",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-20",
+        "user_email": "armstrongerika@tran.com",
+        "user_id": "e16c0682-20e4-4352-86af-80939674a7e0",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-11",
+        "user_email": "josephlove@yahoo.com",
+        "user_id": "ebdeedcd-3808-4cc2-a8b4-b6986609a62f",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-09",
+        "user_email": "vincent25@sanders.biz",
+        "user_id": "08ace7fb-f230-4fb3-a937-5108eccb5a98",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-09",
+        "user_email": "gregory54@hotmail.com",
+        "user_id": "ce1fb764-59da-4e66-8894-ee7a616a26b6",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-18",
+        "user_email": "ramosfrances@banks.com",
+        "user_id": "f7e17ad9-6bf8-435a-998c-8f4d8067efb1",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 3
+    },
+    {
+        "date": "2025-02-26",
+        "user_email": "brownkaren@duncan.com",
+        "user_id": "151417a4-319a-4f2e-85ec-82c5e1b93051",
+        "review_text": "Amazing app, really easy to use. Notifications don\u2019t work properly.",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-08",
+        "user_email": "graybrittany@gmail.com",
+        "user_id": "5269c2b9-97c6-4657-8ca8-563f30c17c08",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-08",
+        "user_email": "nichole36@beard.com",
+        "user_id": "40598c85-0f46-4d68-a4bb-adaa5f9b82d9",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-08",
+        "user_email": "haley09@parker-hernandez.biz",
+        "user_id": "828902a4-8348-4ea4-8ec4-670889be7376",
+        "review_text": "Loved the quick delivery and fresh food! Can you include nutrition details for the dishes?",
+        "rating": 5
+    },
+    {
+        "date": "2025-07-11",
+        "user_email": "ywilliams@proctor.org",
+        "user_id": "b13771af-5b65-4556-ae75-3112f0bd6a8e",
+        "review_text": "Amazing app, really easy to use. Dark mode option would improve the app experience.",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-11",
+        "user_email": "fergusonthomas@hotmail.com",
+        "user_id": "9d38aab6-f1c2-43aa-9daf-c94bd975be7a",
+        "review_text": "Great discounts and offers!",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-08",
+        "user_email": "ncarrillo@sanchez.com",
+        "user_id": "2e9705ae-bf84-4f2d-9f85-67247393d703",
+        "review_text": "Great discounts and offers!",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-19",
+        "user_email": "howardnatalie@hotmail.com",
+        "user_id": "c2b58b5f-e5bf-4b21-ae96-bd98e17c3e63",
+        "review_text": "Loved the quick delivery and fresh food! I wish there was a loyalty points system.",
+        "rating": 2
+    },
+    {
+        "date": "2025-05-23",
+        "user_email": "davidperez@gmail.com",
+        "user_id": "c42d33b7-c667-4b06-bf98-0101caa6f1fb",
+        "review_text": "The delivery person was very polite.",
+        "rating": 2
+    },
+    {
+        "date": "2025-05-30",
+        "user_email": "deborah10@heath.org",
+        "user_id": "5a16865a-3109-4cab-ad71-6c1486a242eb",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-03",
+        "user_email": "vwilliams@torres.org",
+        "user_id": "2d0b7a23-678c-4f5f-b18b-e98f3572b250",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Please add more payment options like PayPal.",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-16",
+        "user_email": "vshaw@yahoo.com",
+        "user_id": "09050698-27d3-4ec3-aa3a-51333e704127",
+        "review_text": "The delivery person was very polite.",
+        "rating": 3
+    },
+    {
+        "date": "2025-05-27",
+        "user_email": "gloria42@hotmail.com",
+        "user_id": "a6d9fbc1-1d93-48a8-911a-bba546b9b221",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-13",
+        "user_email": "flopez@hotmail.com",
+        "user_id": "1d6185c5-8296-4af9-8fb9-b0ef92d4f537",
+        "review_text": "The delivery person was very polite. It would be nice to schedule orders for later.",
+        "rating": 3
+    },
+    {
+        "date": "2025-07-31",
+        "user_email": "carlchapman@yahoo.com",
+        "user_id": "f09dea9b-b457-45ab-a968-7a2090825bff",
+        "review_text": "Food arrived hot and well packed. Add a filter to search for healthier options.",
+        "rating": 3
+    },
+    {
+        "date": "2025-05-08",
+        "user_email": "anthony19@hotmail.com",
+        "user_id": "640c3cb8-d210-4bd6-8855-39504c09a6e6",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 1
+    },
+    {
+        "date": "2025-03-09",
+        "user_email": "williamstiffany@griffith-barnes.com",
+        "user_id": "c1134f69-fe65-4d31-ba5d-abb8092f35bb",
+        "review_text": "Great discounts and offers! Please add more payment options like PayPal.",
+        "rating": 5
+    },
+    {
+        "date": "2025-05-16",
+        "user_email": "evelynlyons@hotmail.com",
+        "user_id": "7695c5a7-e4ed-426f-8331-a519e4210e91",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-16",
+        "user_email": "zlee@gmail.com",
+        "user_id": "efcb5e95-bf39-4c79-b89c-a61fb5ca996f",
+        "review_text": "Food arrived hot and well packed. Can you include nutrition details for the dishes?",
+        "rating": 4
+    },
+    {
+        "date": "2025-02-26",
+        "user_email": "hurstemily@hotmail.com",
+        "user_id": "86a89fce-a01a-4bf4-a926-365cfeb56535",
+        "review_text": "Loved the quick delivery and fresh food! Payment fails too often.",
+        "rating": 4
+    },
+    {
+        "date": "2025-03-01",
+        "user_email": "johnhenderson@brennan.biz",
+        "user_id": "41db1a7a-e933-41d3-9d2d-bec48a70750c",
+        "review_text": "Amazing app, really easy to use. App keeps crashing when I try to checkout.",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-29",
+        "user_email": "angela31@yahoo.com",
+        "user_id": "6641302f-a3a3-48a5-b937-7fc06dd28b77",
+        "review_text": "The delivery person was very polite.",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-14",
+        "user_email": "jacobslori@walker.com",
+        "user_id": "f8c55a14-e3ac-4c7a-a8dd-9d319ffbc820",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 4
+    },
+    {
+        "date": "2025-02-26",
+        "user_email": "thomasmitchell@hotmail.com",
+        "user_id": "0b3af25e-0db5-48f0-9e62-599b3b41ef64",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 1
+    },
+    {
+        "date": "2025-03-28",
+        "user_email": "kenneth90@hotmail.com",
+        "user_id": "2888002d-b52f-43d8-8d42-6e7edfa09fa2",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 2
+    },
+    {
+        "date": "2025-05-03",
+        "user_email": "davisheather@yahoo.com",
+        "user_id": "7172a508-0d0b-462a-8d4a-e76a3bc873aa",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 1
+    },
+    {
+        "date": "2025-08-25",
+        "user_email": "lmartinez@james.com",
+        "user_id": "bf255eb0-0557-421e-9da7-ff9357d753ee",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-11",
+        "user_email": "wwilliams@gmail.com",
+        "user_id": "4df3b20e-13f6-44b8-9a8a-e8ec75c369ba",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-02",
+        "user_email": "scott20@yahoo.com",
+        "user_id": "09563adb-feac-4dcf-ac38-3e6f18f232f1",
+        "review_text": "Food arrived hot and well packed. Can you include nutrition details for the dishes?",
+        "rating": 1
+    },
+    {
+        "date": "2025-03-09",
+        "user_email": "sarahjones@harper.com",
+        "user_id": "f2317200-574b-41b3-a528-7425c4b5b8b0",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 3
+    },
+    {
+        "date": "2025-05-05",
+        "user_email": "melissa50@smith.com",
+        "user_id": "2402d39c-002f-498f-8f72-d0f41d2bb1e1",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 5
+    },
+    {
+        "date": "2025-03-14",
+        "user_email": "davidwilliams@hotmail.com",
+        "user_id": "dc5a4306-2368-4b59-8622-b8c808ecf775",
+        "review_text": "The delivery person was very polite. I wish there was a loyalty points system.",
+        "rating": 3
+    },
+    {
+        "date": "2025-06-17",
+        "user_email": "edward50@carpenter.com",
+        "user_id": "075fe63e-e8de-467d-bc7d-afa05fffcf8f",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 5
+    },
+    {
+        "date": "2025-03-25",
+        "user_email": "ericamahoney@weaver.com",
+        "user_id": "a595d21e-97ca-4203-a90d-c8d50f2b4511",
+        "review_text": "Amazing app, really easy to use. Can you include nutrition details for the dishes?",
+        "rating": 4
+    },
+    {
+        "date": "2025-03-31",
+        "user_email": "matthew45@gmail.com",
+        "user_id": "714958db-b1e1-41c2-81cc-41518baaf2b2",
+        "review_text": "Loved the quick delivery and fresh food! App keeps crashing when I try to checkout.",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-14",
+        "user_email": "tammiemueller@campbell.com",
+        "user_id": "88b83b41-f0c1-4c01-bc2e-2deb2f9c753d",
+        "review_text": "Amazing app, really easy to use. It would be nice to schedule orders for later.",
+        "rating": 1
+    },
+    {
+        "date": "2025-08-02",
+        "user_email": "abbottdebra@yahoo.com",
+        "user_id": "c660fb3d-ca4d-48e2-a97e-110981cd6ccf",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-18",
+        "user_email": "chelseynovak@jackson.com",
+        "user_id": "4dbfad15-cad0-4fcb-adb8-d40bc61ff7d8",
+        "review_text": "Food arrived hot and well packed. It would be nice to schedule orders for later.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-30",
+        "user_email": "hwilliams@morse.com",
+        "user_id": "8a372522-e889-496b-8cd8-aad8025a03f7",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-03",
+        "user_email": "vtyler@green.com",
+        "user_id": "35ca4d9d-3c70-45ed-8551-a4c19b3ec4cc",
+        "review_text": "The delivery person was very polite. It would be nice to schedule orders for later.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-24",
+        "user_email": "woodwardmichael@hotmail.com",
+        "user_id": "23c06930-94f7-470e-b52b-edee0fbbedc1",
+        "review_text": "The delivery person was very polite. I wish there was a loyalty points system.",
+        "rating": 3
+    },
+    {
+        "date": "2025-08-07",
+        "user_email": "cnelson@gmail.com",
+        "user_id": "a1c02ed9-896b-41bf-b832-4bccccfdb5dc",
+        "review_text": "Food arrived hot and well packed. Please add more payment options like PayPal.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-12",
+        "user_email": "sarah15@davis.org",
+        "user_id": "6f464046-a848-4db2-9e83-b385cb9c5fda",
+        "review_text": "The delivery person was very polite. I wish there was a loyalty points system.",
+        "rating": 2
+    },
+    {
+        "date": "2025-06-02",
+        "user_email": "cmueller@gmail.com",
+        "user_id": "341e76a0-c100-490b-b9dc-770ed7578e41",
+        "review_text": "Great discounts and offers! Would be great to have a live order tracking feature.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-19",
+        "user_email": "zsmith@hotmail.com",
+        "user_id": "562408ce-f70e-4626-b431-242f4e1b4bb9",
+        "review_text": "Amazing app, really easy to use. Can you include nutrition details for the dishes?",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-21",
+        "user_email": "montgomeryscott@gmail.com",
+        "user_id": "0edeba23-bc20-4691-9c54-d02474a6b9b6",
+        "review_text": "The delivery person was very polite.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-01",
+        "user_email": "yfoster@hotmail.com",
+        "user_id": "d0a716ff-822f-4fce-b062-614e240119e6",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 2
+    },
+    {
+        "date": "2025-06-04",
+        "user_email": "stricklandbrad@thomas.com",
+        "user_id": "e4a149ae-7440-4075-b682-2693804432d8",
+        "review_text": "Loved the quick delivery and fresh food! Notifications don\u2019t work properly.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-01",
+        "user_email": "lyoung@moore.biz",
+        "user_id": "a57873c7-0650-4fd5-854e-1e46ea367bc2",
+        "review_text": "Food arrived hot and well packed. App freezes when applying coupons.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-31",
+        "user_email": "gvalencia@james.biz",
+        "user_id": "6e07cf16-0aae-4385-99d8-facd2ecc5ee0",
+        "review_text": "Great discounts and offers!",
+        "rating": 2
+    },
+    {
+        "date": "2025-08-12",
+        "user_email": "robertowen@yahoo.com",
+        "user_id": "eab3a2b4-fccb-4cde-bc35-c113a2b18923",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-02",
+        "user_email": "tcook@yahoo.com",
+        "user_id": "88d2024c-3889-4008-bdc9-42ed543729ee",
+        "review_text": "The delivery person was very polite. The map tracking doesn\u2019t update in real time.",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-01",
+        "user_email": "smithalexa@hotmail.com",
+        "user_id": "b6f93774-50dc-4a42-8acc-b4c49b2c6bdf",
+        "review_text": "The delivery person was very polite.",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-01",
+        "user_email": "jwood@hotmail.com",
+        "user_id": "b4ee7f7e-ffaa-4bba-840d-e11e4c901b0d",
+        "review_text": "Amazing app, really easy to use. Add a filter to search for healthier options.",
+        "rating": 2
+    },
+    {
+        "date": "2025-05-17",
+        "user_email": "conleythomas@hotmail.com",
+        "user_id": "b6137b2c-0304-4a74-a82d-ea1a8ed7d3c4",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-20",
+        "user_email": "tayloremily@cruz.biz",
+        "user_id": "88148863-64af-469e-9fc7-568273da0a98",
+        "review_text": "Amazing app, really easy to use. Would be great to have a live order tracking feature.",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-04",
+        "user_email": "gonzalezderek@yahoo.com",
+        "user_id": "872b8b18-7c9c-4ee5-b17f-f6bedb5484d7",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 4
+    },
+    {
+        "date": "2025-08-07",
+        "user_email": "bradleyalvarez@robinson.com",
+        "user_id": "14951a75-d8a1-4d9f-9389-74cf149391f5",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 4
+    },
+    {
+        "date": "2025-08-23",
+        "user_email": "richardpaul@martinez.net",
+        "user_id": "f06fa31c-6766-4b08-8417-c063a46a995c",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Notifications don\u2019t work properly.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-05",
+        "user_email": "falvarez@gmail.com",
+        "user_id": "69d189d9-1420-44d3-b25a-5455f2dcc388",
+        "review_text": "Great discounts and offers! Please add more payment options like PayPal.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-09",
+        "user_email": "justinrobinson@gmail.com",
+        "user_id": "6b7460f1-ef0f-4c37-b271-6f9216f617ed",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-18",
+        "user_email": "aguilarmegan@yahoo.com",
+        "user_id": "e9984527-1b9b-4e25-942d-92fedc2ff750",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Dark mode option would improve the app experience.",
+        "rating": 3
+    },
+    {
+        "date": "2025-06-14",
+        "user_email": "lewischristopher@hotmail.com",
+        "user_id": "ae6c2d8c-d1b8-4c77-9e51-db641de48a80",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 4
+    },
+    {
+        "date": "2025-03-07",
+        "user_email": "nicolemurphy@kelley.com",
+        "user_id": "9e18accf-fce8-44ad-b545-299bda361439",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-02",
+        "user_email": "wjordan@gmail.com",
+        "user_id": "b8e38c79-1012-4d7f-8874-adeb27afea3b",
+        "review_text": "Loved the quick delivery and fresh food! Sometimes my order disappears from the cart.",
+        "rating": 2
+    },
+    {
+        "date": "2025-07-15",
+        "user_email": "thompsonangela@gmail.com",
+        "user_id": "06ccc54d-6dc9-4af7-8162-e744e5f0ed11",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 5
+    },
+    {
+        "date": "2025-03-20",
+        "user_email": "sclark@thompson.org",
+        "user_id": "d2df1481-09ad-45e5-ab3e-357a18f80ddc",
+        "review_text": "Amazing app, really easy to use. Payment fails too often.",
+        "rating": 5
+    },
+    {
+        "date": "2025-03-14",
+        "user_email": "dakota54@allen-hahn.com",
+        "user_id": "54fa4ce2-8d5a-44f1-87b5-eb13ef683173",
+        "review_text": "The delivery person was very polite. Dark mode option would improve the app experience.",
+        "rating": 5
+    },
+    {
+        "date": "2025-03-14",
+        "user_email": "joannsmith@hotmail.com",
+        "user_id": "affca435-d66f-4e05-92a6-ba7e018f9eac",
+        "review_text": "I use this app almost daily, very reliable. Add a filter to search for healthier options.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-25",
+        "user_email": "zlee@smith.com",
+        "user_id": "482e856c-880f-4f6f-908e-7334c651ccb3",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Dark mode option would improve the app experience.",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-09",
+        "user_email": "jason17@gmail.com",
+        "user_id": "f851fd84-b20e-4593-a49c-18ce8c14a619",
+        "review_text": "Great discounts and offers! Dark mode option would improve the app experience.",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-07",
+        "user_email": "romanerin@hotmail.com",
+        "user_id": "bc747586-178f-4dd6-b6c7-d15e0e50c5e7",
+        "review_text": "Great discounts and offers!",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-06",
+        "user_email": "mpatel@ward.org",
+        "user_id": "bccaf632-c0b2-4898-bf9f-97875704cb28",
+        "review_text": "Loved the quick delivery and fresh food! Can you include nutrition details for the dishes?",
+        "rating": 2
+    },
+    {
+        "date": "2025-06-23",
+        "user_email": "murphywilliam@yahoo.com",
+        "user_id": "e8165837-1b53-4298-80d1-0d6e210a057c",
+        "review_text": "Great discounts and offers!",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-18",
+        "user_email": "evansmark@davis.com",
+        "user_id": "f0d9895a-99e3-4c63-96ed-fb9dcb7e46f5",
+        "review_text": "Amazing app, really easy to use. Add a filter to search for healthier options.",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-21",
+        "user_email": "ronniemurphy@hotmail.com",
+        "user_id": "3105f22b-5edb-42b9-b723-698483555a76",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-17",
+        "user_email": "joshua85@vance.com",
+        "user_id": "705d011c-0fc5-44e0-8811-55c5ee349eb5",
+        "review_text": "The delivery person was very polite. Add a filter to search for healthier options.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-07",
+        "user_email": "thomas98@choi.org",
+        "user_id": "48216805-c2d2-442e-be78-ea0208b2b7e3",
+        "review_text": "Great discounts and offers!",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-14",
+        "user_email": "bfox@butler.com",
+        "user_id": "b4685d77-811a-4670-b31d-f9bc4b009572",
+        "review_text": "Food arrived hot and well packed. Dark mode option would improve the app experience.",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-26",
+        "user_email": "smithdennis@gmail.com",
+        "user_id": "0569995b-080e-4271-b6a7-687327519ed7",
+        "review_text": "Amazing app, really easy to use. Add a filter to search for healthier options.",
+        "rating": 3
+    },
+    {
+        "date": "2025-05-12",
+        "user_email": "morganstephanie@hotmail.com",
+        "user_id": "81ada7af-d8a0-4043-a743-63ee2d1b8ec2",
+        "review_text": "Great discounts and offers!",
+        "rating": 4
+    },
+    {
+        "date": "2025-08-15",
+        "user_email": "michelle39@yahoo.com",
+        "user_id": "0029cea8-7b21-4e6b-923a-8edf49121ba1",
+        "review_text": "Loved the quick delivery and fresh food! Dark mode option would improve the app experience.",
+        "rating": 1
+    },
+    {
+        "date": "2025-03-19",
+        "user_email": "lcooper@poole-singleton.com",
+        "user_id": "db53dc31-95c5-4a56-b267-75bf9f254bc0",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-20",
+        "user_email": "greenerobert@gmail.com",
+        "user_id": "782a6dda-42e4-4ade-a7a2-686d11e1d23f",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 3
+    },
+    {
+        "date": "2025-07-09",
+        "user_email": "cummingskristen@zuniga-pratt.com",
+        "user_id": "2fc3dac9-d043-4ef5-ae59-3278f16c74ef",
+        "review_text": "The delivery person was very polite. Notifications don\u2019t work properly.",
+        "rating": 2
+    },
+    {
+        "date": "2025-07-01",
+        "user_email": "norrismichael@cervantes.com",
+        "user_id": "fc533b8a-8afa-488d-b98a-bd9df4acc3fe",
+        "review_text": "Great discounts and offers! Search bar doesn\u2019t return accurate results.",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-05",
+        "user_email": "justinbrown@reese-gibson.com",
+        "user_id": "9aeb9cc9-c814-40f6-ae53-597a7f35e859",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 5
+    },
+    {
+        "date": "2025-07-07",
+        "user_email": "robert09@potter-clark.com",
+        "user_id": "6a19875b-befc-409e-87ac-75cecb8d8f30",
+        "review_text": "Great discounts and offers!",
+        "rating": 2
+    },
+    {
+        "date": "2025-08-15",
+        "user_email": "oavila@thompson.com",
+        "user_id": "3a27cd4a-03c7-4e3d-b4e3-890c346e55f7",
+        "review_text": "I use this app almost daily, very reliable. It would be nice to schedule orders for later.",
+        "rating": 2
+    },
+    {
+        "date": "2025-06-17",
+        "user_email": "brandynguyen@thompson-eaton.com",
+        "user_id": "eb93c12d-49a3-44e0-99d7-1fbba9408093",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 2
+    },
+    {
+        "date": "2025-06-12",
+        "user_email": "wheelerjessica@yahoo.com",
+        "user_id": "0564d944-881b-4ad6-baa7-45d4f870826e",
+        "review_text": "Food arrived hot and well packed. App freezes when applying coupons.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-13",
+        "user_email": "qschroeder@yahoo.com",
+        "user_id": "89b864c0-d442-4654-a6c1-61f687639e80",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-11",
+        "user_email": "timothyjacobs@yahoo.com",
+        "user_id": "f2b76f4b-029c-49de-8801-d32d83b9591e",
+        "review_text": "Great discounts and offers! Would be great to have a live order tracking feature.",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-12",
+        "user_email": "wharris@reid.com",
+        "user_id": "89c236c2-0792-4249-a063-97fd88f2064e",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 5
+    },
+    {
+        "date": "2025-05-04",
+        "user_email": "kurt56@mcdowell.org",
+        "user_id": "63334e14-30dd-4b1b-95b3-5eac79cee484",
+        "review_text": "Food arrived hot and well packed. Can you include nutrition details for the dishes?",
+        "rating": 1
+    },
+    {
+        "date": "2025-03-18",
+        "user_email": "dianewest@yahoo.com",
+        "user_id": "2895007e-efba-4e6f-baf6-ccb0dbd4aed7",
+        "review_text": "The delivery person was very polite. App freezes when applying coupons.",
+        "rating": 4
+    },
+    {
+        "date": "2025-03-17",
+        "user_email": "taylorjared@reyes.com",
+        "user_id": "84cc536e-7b92-431e-82a5-e1b46b108140",
+        "review_text": "Food arrived hot and well packed. I wish there was a loyalty points system.",
+        "rating": 2
+    },
+    {
+        "date": "2025-08-24",
+        "user_email": "jeffreytaylor@hotmail.com",
+        "user_id": "3ef08172-0673-4dfc-bbdf-577bffa1aad1",
+        "review_text": "Great discounts and offers!",
+        "rating": 3
+    },
+    {
+        "date": "2025-05-25",
+        "user_email": "lhanna@hotmail.com",
+        "user_id": "b7ba8302-9124-45cd-905e-dc77965743ad",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-29",
+        "user_email": "ryan25@yahoo.com",
+        "user_id": "4baf71fb-9062-4fb0-b6b5-d84b07149714",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-23",
+        "user_email": "jessicahines@hotmail.com",
+        "user_id": "021349b8-cb76-4bd7-acc4-9dbd606ad82d",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Search bar doesn\u2019t return accurate results.",
+        "rating": 2
+    },
+    {
+        "date": "2025-07-27",
+        "user_email": "dallison@yahoo.com",
+        "user_id": "c0c6cd91-420e-4890-8f68-175e30344412",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 3
+    },
+    {
+        "date": "2025-05-17",
+        "user_email": "shirley27@freeman-williams.info",
+        "user_id": "12b9f1d3-8bbb-4d60-bafc-88c4f00af7ca",
+        "review_text": "Great discounts and offers! Please add more payment options like PayPal.",
+        "rating": 4
+    },
+    {
+        "date": "2025-04-12",
+        "user_email": "sara44@williams.com",
+        "user_id": "0ebda123-08ec-464c-a336-fb825b2a6d97",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. The map tracking doesn\u2019t update in real time.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-11",
+        "user_email": "cschwartz@gmail.com",
+        "user_id": "41067c0c-03f0-4689-aa33-705ed85d927a",
+        "review_text": "The delivery person was very polite.",
+        "rating": 5
+    },
+    {
+        "date": "2025-03-31",
+        "user_email": "griffinmark@hotmail.com",
+        "user_id": "9e4af81b-7d61-45c4-899b-66da313a7976",
+        "review_text": "Great discounts and offers! Dark mode option would improve the app experience.",
+        "rating": 2
+    },
+    {
+        "date": "2025-07-29",
+        "user_email": "amanda34@yahoo.com",
+        "user_id": "30dfd793-a6d0-412b-a570-819a1fe78970",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-03",
+        "user_email": "toddchang@clay.com",
+        "user_id": "1b61a700-2bf9-475d-aa47-00bc1bfc974c",
+        "review_text": "Great discounts and offers!",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-11",
+        "user_email": "vanessahiggins@hotmail.com",
+        "user_id": "e2e73d2e-f4d7-4e49-bdcd-5a88743123ec",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 5
+    },
+    {
+        "date": "2025-06-23",
+        "user_email": "amber50@haynes.com",
+        "user_id": "c8c46e18-e341-4210-8fbc-e79a9fe5a731",
+        "review_text": "Great discounts and offers! Payment fails too often.",
+        "rating": 2
+    },
+    {
+        "date": "2025-07-29",
+        "user_email": "rebeccanorris@gmail.com",
+        "user_id": "0be805c7-b093-401b-91f6-3e4d81901c26",
+        "review_text": "I use this app almost daily, very reliable. Would be great to have a live order tracking feature.",
+        "rating": 5
+    },
+    {
+        "date": "2025-06-13",
+        "user_email": "martinezheather@gmail.com",
+        "user_id": "68e98857-b24f-4b81-823e-2ba29f980547",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-30",
+        "user_email": "xwalsh@adams.com",
+        "user_id": "c306c678-6b0f-443e-a2e4-228fa1dfb121",
+        "review_text": "The delivery person was very polite.",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-03",
+        "user_email": "pdavis@yahoo.com",
+        "user_id": "02e08935-6bd3-4868-ad99-21279e677a4d",
+        "review_text": "Great discounts and offers! App freezes when applying coupons.",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-12",
+        "user_email": "jack17@bell.com",
+        "user_id": "c48913a1-b349-4946-a87e-d9e5f5be332c",
+        "review_text": "Food arrived hot and well packed. Add a filter to search for healthier options.",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-23",
+        "user_email": "mmurphy@jackson-jimenez.com",
+        "user_id": "f14c7edd-7d87-477f-9dca-4544b370ec49",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-11",
+        "user_email": "ryanallison@gmail.com",
+        "user_id": "d07aca6a-ed77-4fc9-bbcb-3ce112670665",
+        "review_text": "Amazing app, really easy to use. The map tracking doesn\u2019t update in real time.",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-10",
+        "user_email": "jmartinez@gmail.com",
+        "user_id": "afa19bd8-0ba4-4f91-951d-664206373527",
+        "review_text": "I use this app almost daily, very reliable. Search bar doesn\u2019t return accurate results.",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-30",
+        "user_email": "vgarcia@yahoo.com",
+        "user_id": "02d1f6c6-eb50-497a-94ae-47cddc1473f7",
+        "review_text": "Great discounts and offers!",
+        "rating": 5
+    },
+    {
+        "date": "2025-05-09",
+        "user_email": "leerobert@summers.org",
+        "user_id": "35d2719c-8fbf-49c9-a441-4b6cacf20625",
+        "review_text": "Food arrived hot and well packed. App freezes when applying coupons.",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-18",
+        "user_email": "tamicampbell@rogers.com",
+        "user_id": "09c80ed8-132e-4a88-ae24-d8bd54feaeec",
+        "review_text": "I use this app almost daily, very reliable. App freezes when applying coupons.",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-03",
+        "user_email": "zachary42@collins-lopez.com",
+        "user_id": "0a9e5154-aebd-40f4-8fc5-e04aac40bfc5",
+        "review_text": "Great discounts and offers! Notifications don\u2019t work properly.",
+        "rating": 2
+    },
+    {
+        "date": "2025-05-25",
+        "user_email": "patrickwhite@gmail.com",
+        "user_id": "b18a300e-30ce-4ec7-a0c4-ec207fbd0e19",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-12",
+        "user_email": "littlejoshua@barr.org",
+        "user_id": "a89a198e-258e-4d05-868e-80d1fc758657",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 4
+    },
+    {
+        "date": "2025-03-11",
+        "user_email": "reyesleah@norris.com",
+        "user_id": "9d7e9280-586d-460c-94b9-d791c4322a42",
+        "review_text": "The delivery person was very polite. Would be great to have a live order tracking feature.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-01",
+        "user_email": "cummingsandrew@garza.com",
+        "user_id": "eb35f7f7-b6c4-43f8-b81f-e689fa901d28",
+        "review_text": "Amazing app, really easy to use. Would be great to have a live order tracking feature.",
+        "rating": 2
+    },
+    {
+        "date": "2025-06-14",
+        "user_email": "pattersondwayne@yahoo.com",
+        "user_id": "b95b69f6-046c-4b0c-9ccf-11948e7581e7",
+        "review_text": "Great discounts and offers! App keeps crashing when I try to checkout.",
+        "rating": 3
+    },
+    {
+        "date": "2025-05-17",
+        "user_email": "cindy94@jensen-becker.com",
+        "user_id": "8f0f847d-ec80-4bdc-b31e-793105b37a09",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-23",
+        "user_email": "cranejames@gmail.com",
+        "user_id": "5c530f15-47d2-4c8c-a290-9e80a304d2bd",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-02",
+        "user_email": "snydermichelle@yahoo.com",
+        "user_id": "44cff5d8-89d6-4930-be04-2161e130311e",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-26",
+        "user_email": "shirleyphillips@yahoo.com",
+        "user_id": "1bad32cf-3b9c-434d-90e9-0d5470283912",
+        "review_text": "Great discounts and offers!",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-01",
+        "user_email": "chelsearandall@hotmail.com",
+        "user_id": "4102ee25-1bfe-4609-b4ed-8ffb40f10abf",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-01",
+        "user_email": "kgraham@hotmail.com",
+        "user_id": "e3313160-f882-48b9-90c9-5079855b2e0a",
+        "review_text": "Great discounts and offers! Can you include nutrition details for the dishes?",
+        "rating": 4
+    },
+    {
+        "date": "2025-04-14",
+        "user_email": "hescobar@yahoo.com",
+        "user_id": "46526867-e366-449a-9a75-2e17dbac5150",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-06",
+        "user_email": "christophermorales@glover-holloway.com",
+        "user_id": "106df70d-5d25-4a64-9e92-66b139c7cfab",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Dark mode option would improve the app experience.",
+        "rating": 5
+    },
+    {
+        "date": "2025-02-26",
+        "user_email": "alyssawest@yahoo.com",
+        "user_id": "e6c3f51d-2bf0-4ece-a1bb-f61806f26ae8",
+        "review_text": "The delivery person was very polite. The map tracking doesn\u2019t update in real time.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-10",
+        "user_email": "jesse43@hotmail.com",
+        "user_id": "1fb5bb57-e57a-43db-ba23-a77d835d5024",
+        "review_text": "Amazing app, really easy to use. I wish there was a loyalty points system.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-23",
+        "user_email": "david93@hotmail.com",
+        "user_id": "64ce590d-4e84-402f-bc5a-dcee1fa5d170",
+        "review_text": "Loved the quick delivery and fresh food! App keeps crashing when I try to checkout.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-15",
+        "user_email": "lauriewalker@harrell.com",
+        "user_id": "63354d84-5d6b-49a2-ae7a-f857a3804cc1",
+        "review_text": "Food arrived hot and well packed. Search bar doesn\u2019t return accurate results.",
+        "rating": 5
+    },
+    {
+        "date": "2025-06-25",
+        "user_email": "yhawkins@yahoo.com",
+        "user_id": "bfa27c97-e6ef-4d29-8a5e-5de715b1cd01",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 5
+    },
+    {
+        "date": "2025-03-19",
+        "user_email": "nancy67@snyder-brown.net",
+        "user_id": "3946ad83-964d-4ab9-8449-76cd2dbfd59b",
+        "review_text": "Food arrived hot and well packed. Dark mode option would improve the app experience.",
+        "rating": 5
+    },
+    {
+        "date": "2025-03-04",
+        "user_email": "englishmariah@hotmail.com",
+        "user_id": "f9679cab-7eac-47c0-9202-ade2dfbeedf0",
+        "review_text": "Great discounts and offers!",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-03",
+        "user_email": "staceythornton@gonzalez.info",
+        "user_id": "3ccacbfa-41b6-414d-88a0-040953f80471",
+        "review_text": "Great discounts and offers! Add a filter to search for healthier options.",
+        "rating": 5
+    },
+    {
+        "date": "2025-06-11",
+        "user_email": "ostevenson@willis-lewis.org",
+        "user_id": "49f81bd8-7d41-408c-b380-48a9dd33e0fd",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-02",
+        "user_email": "krodriguez@yahoo.com",
+        "user_id": "6928a533-4335-4bf1-b73e-ecf162e3016b",
+        "review_text": "Loved the quick delivery and fresh food! Dark mode option would improve the app experience.",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-07",
+        "user_email": "canderson@montoya.com",
+        "user_id": "c2494ae0-ca29-4349-b0ea-b37f66d729a3",
+        "review_text": "Amazing app, really easy to use. Would be great to have a live order tracking feature.",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-01",
+        "user_email": "ssmith@hotmail.com",
+        "user_id": "a01075dc-bac4-4e19-af60-ecc42f24d579",
+        "review_text": "Amazing app, really easy to use. Sometimes my order disappears from the cart.",
+        "rating": 5
+    },
+    {
+        "date": "2025-07-15",
+        "user_email": "lunasarah@cummings-gonzalez.com",
+        "user_id": "f1aa5d82-df62-4b3d-9cd0-4ce6247c16b1",
+        "review_text": "Food arrived hot and well packed. It would be nice to schedule orders for later.",
+        "rating": 3
+    },
+    {
+        "date": "2025-08-25",
+        "user_email": "daisy73@jones-jordan.biz",
+        "user_id": "9f37bbd5-8665-4729-92ed-0420fd3cbd10",
+        "review_text": "Great discounts and offers! Dark mode option would improve the app experience.",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-06",
+        "user_email": "christopher08@hotmail.com",
+        "user_id": "1f4202ee-91b5-4040-b92b-987254fd15ab",
+        "review_text": "Great discounts and offers!",
+        "rating": 1
+    },
+    {
+        "date": "2025-03-10",
+        "user_email": "sarahstanley@yahoo.com",
+        "user_id": "13ffdd8f-d876-41f4-a806-0c54ac2f6ac9",
+        "review_text": "Great discounts and offers!",
+        "rating": 5
+    },
+    {
+        "date": "2025-03-04",
+        "user_email": "aaronfarmer@wolfe.com",
+        "user_id": "a25ca186-daed-436b-878b-6b1b8251668b",
+        "review_text": "The delivery person was very polite.",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-04",
+        "user_email": "donald25@torres-colon.com",
+        "user_id": "9ed61356-4790-4b43-9ac7-1228be9a2a96",
+        "review_text": "The delivery person was very polite.",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-13",
+        "user_email": "youngjasmin@yahoo.com",
+        "user_id": "ba9e25e9-977c-447f-ad60-d0a498ccf4df",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 4
+    },
+    {
+        "date": "2025-03-13",
+        "user_email": "claudia16@banks-cowan.biz",
+        "user_id": "d98ab124-3184-43b2-9a7e-1ec31569b786",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 2
+    },
+    {
+        "date": "2025-08-08",
+        "user_email": "michaelblack@lane-gonzales.com",
+        "user_id": "2c9ae92d-3511-4dbf-9cc0-0e5958306225",
+        "review_text": "Great discounts and offers! App keeps crashing when I try to checkout.",
+        "rating": 1
+    },
+    {
+        "date": "2025-03-23",
+        "user_email": "garciaellen@hotmail.com",
+        "user_id": "70586429-8d86-4311-b865-98ca9dbbeb40",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 3
+    },
+    {
+        "date": "2025-08-24",
+        "user_email": "ljones@maynard-christensen.org",
+        "user_id": "4ab6adb9-0f3d-4f7c-9b47-e57a4e208a67",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 3
+    },
+    {
+        "date": "2025-05-17",
+        "user_email": "vbarrera@lee.com",
+        "user_id": "89842330-176d-418d-baa1-f7095e2b4c1d",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. App freezes when applying coupons.",
+        "rating": 3
+    },
+    {
+        "date": "2025-06-15",
+        "user_email": "juliestevens@hotmail.com",
+        "user_id": "3f8c2f9b-cb14-4aca-aed4-7799416f31c4",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 5
+    },
+    {
+        "date": "2025-07-06",
+        "user_email": "jonescheryl@hotmail.com",
+        "user_id": "8586d8b7-0819-448a-b23c-6c4b0841c742",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-03",
+        "user_email": "sperez@harris-henry.com",
+        "user_id": "491f7008-95e9-4901-9e39-0cff5ff0fa75",
+        "review_text": "Food arrived hot and well packed. Sometimes my order disappears from the cart.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-28",
+        "user_email": "johnsondustin@gmail.com",
+        "user_id": "d518f0b4-6533-4260-8f1b-60443962580d",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 4
+    },
+    {
+        "date": "2025-03-12",
+        "user_email": "mccarthyjustin@aguirre-james.info",
+        "user_id": "070fbdf0-2704-4d03-ac30-926ba7c96561",
+        "review_text": "The delivery person was very polite. I wish there was a loyalty points system.",
+        "rating": 2
+    },
+    {
+        "date": "2025-08-19",
+        "user_email": "glenn17@ross-valdez.info",
+        "user_id": "01f6f1ff-bc02-4f51-9849-21bd8af3e176",
+        "review_text": "The delivery person was very polite.",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-17",
+        "user_email": "zbrown@allen.com",
+        "user_id": "b382d481-f3c2-4700-95a3-97da41d4b5dc",
+        "review_text": "Amazing app, really easy to use. App keeps crashing when I try to checkout.",
+        "rating": 5
+    },
+    {
+        "date": "2025-06-13",
+        "user_email": "thompsonsara@yahoo.com",
+        "user_id": "019b849c-4798-496d-988d-aa06c4147354",
+        "review_text": "The delivery person was very polite. The map tracking doesn\u2019t update in real time.",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-06",
+        "user_email": "woodtracy@richardson.com",
+        "user_id": "61c678b3-4f1e-4906-8ce7-0e9c1e1c6914",
+        "review_text": "Great discounts and offers! Payment fails too often.",
+        "rating": 2
+    },
+    {
+        "date": "2025-06-05",
+        "user_email": "alicia86@sosa.com",
+        "user_id": "f3545782-8c49-461d-84df-7c9fbca9c4bd",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 4
+    },
+    {
+        "date": "2025-04-21",
+        "user_email": "jessicagill@lozano.net",
+        "user_id": "3ef937b5-91c9-4447-8328-1028a5754fe2",
+        "review_text": "Food arrived hot and well packed. The map tracking doesn\u2019t update in real time.",
+        "rating": 2
+    },
+    {
+        "date": "2025-06-13",
+        "user_email": "bryantkimberly@perry-romero.biz",
+        "user_id": "1dd65df1-129f-4d94-ab42-bfc6c469feff",
+        "review_text": "The delivery person was very polite. App keeps crashing when I try to checkout.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-26",
+        "user_email": "vcastillo@gmail.com",
+        "user_id": "ed4545bd-135f-4c87-99c4-34a29fc95bcf",
+        "review_text": "Loved the quick delivery and fresh food! App freezes when applying coupons.",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-02",
+        "user_email": "robinsonhayden@gmail.com",
+        "user_id": "a76bfbe7-2acb-495e-a15d-dbe1a1539754",
+        "review_text": "Great discounts and offers!",
+        "rating": 4
+    },
+    {
+        "date": "2025-08-26",
+        "user_email": "nrichard@johnson.com",
+        "user_id": "50a93c45-da01-41b1-8467-1a1d62a122d5",
+        "review_text": "Great discounts and offers!",
+        "rating": 1
+    },
+    {
+        "date": "2025-03-15",
+        "user_email": "christopherpetersen@webb-patel.biz",
+        "user_id": "a2f0c5cf-cca2-4e91-8a6f-ce8f04c05637",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-30",
+        "user_email": "lindseyhill@bernard-brown.com",
+        "user_id": "3dbb9036-3c17-40f0-8202-8f06a27e7f3e",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Sometimes my order disappears from the cart.",
+        "rating": 2
+    },
+    {
+        "date": "2025-05-08",
+        "user_email": "powellmichael@hotmail.com",
+        "user_id": "c24861b3-fff0-4356-bea9-b986f4cedce5",
+        "review_text": "Loved the quick delivery and fresh food! App freezes when applying coupons.",
+        "rating": 5
+    },
+    {
+        "date": "2025-05-03",
+        "user_email": "brandonfrancis@gmail.com",
+        "user_id": "dc8d3492-02d4-41f3-898e-7d0004c47593",
+        "review_text": "The delivery person was very polite. The map tracking doesn\u2019t update in real time.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-14",
+        "user_email": "jacobsbrian@carpenter.com",
+        "user_id": "0f5a3c70-fbab-4469-aae8-6c1ff5551321",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-20",
+        "user_email": "shannon94@yahoo.com",
+        "user_id": "44cfb04e-fea0-4981-a655-1243685fe1bf",
+        "review_text": "Great discounts and offers! Please add more payment options like PayPal.",
+        "rating": 5
+    },
+    {
+        "date": "2025-07-25",
+        "user_email": "william28@torres.com",
+        "user_id": "01eb7e82-3573-446d-bad9-a6a5fb20fc73",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 4
+    },
+    {
+        "date": "2025-04-23",
+        "user_email": "stevenrogers@ramirez.com",
+        "user_id": "1ea7ce67-08d2-4b89-b6b4-40763e2a23e4",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Search bar doesn\u2019t return accurate results.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-10",
+        "user_email": "shawn29@yahoo.com",
+        "user_id": "a4af026b-e34a-4d1e-ae5f-979fe709da27",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-14",
+        "user_email": "wilsonjustin@hotmail.com",
+        "user_id": "7713b0c3-f8eb-4cc4-9b9f-ff13c1e1bf17",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-25",
+        "user_email": "hoganandrew@yahoo.com",
+        "user_id": "ae41c9bf-dc6d-4ab5-8d92-d55253e9e22e",
+        "review_text": "Great discounts and offers!",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-21",
+        "user_email": "mhaynes@hughes.info",
+        "user_id": "5c1c3a36-ec6e-4a18-8ea4-dfaf4f820dac",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-24",
+        "user_email": "georgesmith@yahoo.com",
+        "user_id": "e2066753-d717-43d2-99ad-bfbe244f726c",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-28",
+        "user_email": "nicoleramos@yahoo.com",
+        "user_id": "48cb2eda-9664-4cfb-a5d9-2edac9656ce7",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 3
+    },
+    {
+        "date": "2025-05-10",
+        "user_email": "lindsey68@yahoo.com",
+        "user_id": "6329c431-49ea-4e7a-be00-26db483bb997",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. It would be nice to schedule orders for later.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-31",
+        "user_email": "jenniferjones@yahoo.com",
+        "user_id": "f95e0173-9f20-456d-aee6-7895eec1375e",
+        "review_text": "The delivery person was very polite.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-08",
+        "user_email": "john91@ellis.info",
+        "user_id": "4e375c5f-6a4d-41c9-bdc8-f118f70753a7",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 5
+    },
+    {
+        "date": "2025-03-31",
+        "user_email": "angela76@gmail.com",
+        "user_id": "4896d45e-4db3-40ce-a0a7-394022a2c882",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-27",
+        "user_email": "annaadams@hotmail.com",
+        "user_id": "f0da5728-20ae-49f8-a90c-1c71ec6299c8",
+        "review_text": "Great discounts and offers!",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-21",
+        "user_email": "jacqueline36@hotmail.com",
+        "user_id": "4a500c9e-9976-4498-8316-c5bc0eefe09c",
+        "review_text": "Great discounts and offers!",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-20",
+        "user_email": "cannonbenjamin@hotmail.com",
+        "user_id": "7197535d-6709-401c-a2ca-816f3b427a67",
+        "review_text": "The delivery person was very polite. I wish there was a loyalty points system.",
+        "rating": 3
+    },
+    {
+        "date": "2025-07-25",
+        "user_email": "kimberly71@gmail.com",
+        "user_id": "094af127-8bde-4c7a-a6c4-dd2d264a0e9e",
+        "review_text": "The delivery person was very polite. I wish there was a loyalty points system.",
+        "rating": 5
+    },
+    {
+        "date": "2025-03-04",
+        "user_email": "amy25@hotmail.com",
+        "user_id": "2687e045-efd6-441b-9b08-8cf659d8bd38",
+        "review_text": "Amazing app, really easy to use. I wish there was a loyalty points system.",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-16",
+        "user_email": "edward63@gmail.com",
+        "user_id": "231660f8-5b0b-42ec-9b53-c70836887ece",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-18",
+        "user_email": "regina70@gmail.com",
+        "user_id": "18422eaf-5c29-41c2-90a7-2dc9b2b73303",
+        "review_text": "The delivery person was very polite.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-11",
+        "user_email": "david65@yahoo.com",
+        "user_id": "e5650247-f7ee-4f3c-aab1-03a0804fdf49",
+        "review_text": "The delivery person was very polite.",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-29",
+        "user_email": "sarah47@buck-flowers.com",
+        "user_id": "d05776c4-d33a-44cb-b6ce-bcda5b60d837",
+        "review_text": "Great discounts and offers!",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-11",
+        "user_email": "tonyawhite@hotmail.com",
+        "user_id": "1f06c2bf-a5d2-4eec-b34e-12c57bb890fa",
+        "review_text": "The delivery person was very polite.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-27",
+        "user_email": "imccormick@gmail.com",
+        "user_id": "82743b0a-c6cf-4821-b199-8f019205c28e",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. It would be nice to schedule orders for later.",
+        "rating": 2
+    },
+    {
+        "date": "2025-05-12",
+        "user_email": "pvelazquez@hotmail.com",
+        "user_id": "5af4355f-7e3a-4dd3-b853-b952eed50acb",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 5
+    },
+    {
+        "date": "2025-07-31",
+        "user_email": "zachary58@garrett-crawford.com",
+        "user_id": "5142b21d-15ac-4b07-828e-dc53c99252f2",
+        "review_text": "The delivery person was very polite.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-21",
+        "user_email": "valdezdavid@yahoo.com",
+        "user_id": "aa205778-09a1-4974-bc5e-512f461ea5c6",
+        "review_text": "Food arrived hot and well packed. I wish there was a loyalty points system.",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-30",
+        "user_email": "gdouglas@cook.com",
+        "user_id": "a2a9e024-745f-47d5-a60a-d0c2c842dc08",
+        "review_text": "Loved the quick delivery and fresh food! App keeps crashing when I try to checkout.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-11",
+        "user_email": "victoria22@gmail.com",
+        "user_id": "9bccf7fc-60d1-49c9-a283-65db98177fe8",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 2
+    },
+    {
+        "date": "2025-08-07",
+        "user_email": "csmith@burgess-padilla.com",
+        "user_id": "28ce642c-cdff-4ed5-b688-278f01083f61",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 4
+    },
+    {
+        "date": "2025-08-21",
+        "user_email": "scottchristian@kim.info",
+        "user_id": "bae1b3c6-af0a-48b2-8f1d-dbeae266d26c",
+        "review_text": "Amazing app, really easy to use. Please add more payment options like PayPal.",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-11",
+        "user_email": "browngabriella@yahoo.com",
+        "user_id": "87949b05-c60c-4494-b892-7e8733c67cc6",
+        "review_text": "Great discounts and offers! Dark mode option would improve the app experience.",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-28",
+        "user_email": "paul60@hotmail.com",
+        "user_id": "363bf5b4-a83f-4d0f-b4cd-e7f97c948bc8",
+        "review_text": "I use this app almost daily, very reliable. App freezes when applying coupons.",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-05",
+        "user_email": "blewis@tate-douglas.com",
+        "user_id": "23f52a8f-b09d-421b-9a8b-38f7ddb85f8e",
+        "review_text": "Amazing app, really easy to use. Please add more payment options like PayPal.",
+        "rating": 3
+    },
+    {
+        "date": "2025-08-20",
+        "user_email": "wardbeth@johnson-hayden.com",
+        "user_id": "95ca6af7-7844-4ce0-b734-658947aaef90",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Would be great to have a live order tracking feature.",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-25",
+        "user_email": "aferrell@jackson.biz",
+        "user_id": "f9afbb9c-4b3b-4a04-9881-c317e3595fbb",
+        "review_text": "Loved the quick delivery and fresh food! Can you include nutrition details for the dishes?",
+        "rating": 3
+    },
+    {
+        "date": "2025-05-30",
+        "user_email": "erica62@yahoo.com",
+        "user_id": "d5867948-6b3d-43d0-90cc-968e0cfad1ca",
+        "review_text": "The delivery person was very polite.",
+        "rating": 5
+    },
+    {
+        "date": "2025-07-06",
+        "user_email": "xjackson@shaffer.com",
+        "user_id": "47e663b7-29fb-43e6-a7cf-8fca4767794b",
+        "review_text": "Great discounts and offers! Would be great to have a live order tracking feature.",
+        "rating": 2
+    },
+    {
+        "date": "2025-08-07",
+        "user_email": "michael25@sims.com",
+        "user_id": "9a94f88d-b4ce-4572-8032-bee46b80fb22",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Can you include nutrition details for the dishes?",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-02",
+        "user_email": "pattyabbott@mooney.com",
+        "user_id": "a6884e06-24ab-4252-b768-b2ac8e2237d2",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 2
+    },
+    {
+        "date": "2025-06-16",
+        "user_email": "jamesmalone@gmail.com",
+        "user_id": "d15714be-dcf2-473c-bf6e-22c9e2e46111",
+        "review_text": "The delivery person was very polite. It would be nice to schedule orders for later.",
+        "rating": 2
+    },
+    {
+        "date": "2025-07-26",
+        "user_email": "moorecameron@smith.com",
+        "user_id": "c73f1696-9098-4964-833c-7f0f7a3dc77f",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-22",
+        "user_email": "hardytravis@yahoo.com",
+        "user_id": "99b2e242-8688-4af0-a3ec-402af85d4198",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-12",
+        "user_email": "debra96@hotmail.com",
+        "user_id": "72af221e-fc2a-405b-9d35-802003fd21af",
+        "review_text": "Great discounts and offers!",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-28",
+        "user_email": "joshuamcclain@schwartz-ayala.com",
+        "user_id": "abc1a4f3-f0e1-4baf-9f4d-00c14be93858",
+        "review_text": "Food arrived hot and well packed. App freezes when applying coupons.",
+        "rating": 5
+    },
+    {
+        "date": "2025-07-08",
+        "user_email": "ymccormick@robinson.com",
+        "user_id": "e7057411-3eb8-4038-9e25-7e3a0714a112",
+        "review_text": "Great discounts and offers!",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-07",
+        "user_email": "christopheradams@yahoo.com",
+        "user_id": "7f92e39e-1ca5-4d53-9557-4f7d3b43c2c7",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-14",
+        "user_email": "kylepeterson@gmail.com",
+        "user_id": "06050d85-50cd-4316-9da9-d0b6f8986ae7",
+        "review_text": "Amazing app, really easy to use. App keeps crashing when I try to checkout.",
+        "rating": 1
+    },
+    {
+        "date": "2025-03-25",
+        "user_email": "gonzalescarla@yahoo.com",
+        "user_id": "c331fd94-db65-4107-92b7-68956746d76a",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Sometimes my order disappears from the cart.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-27",
+        "user_email": "madams@yahoo.com",
+        "user_id": "a124bdda-c158-440e-989d-770287e0f75a",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 5
+    },
+    {
+        "date": "2025-06-22",
+        "user_email": "beverly33@yahoo.com",
+        "user_id": "43a41b79-4e5b-478e-8f1e-049ea95384ca",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. App freezes when applying coupons.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-27",
+        "user_email": "eric00@scott-stephens.com",
+        "user_id": "4e922cdc-65bc-46ce-9125-2525562a6547",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Can you include nutrition details for the dishes?",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-30",
+        "user_email": "david12@gmail.com",
+        "user_id": "044f4f8c-7fcc-40ea-b193-d22bb71106c5",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 5
+    },
+    {
+        "date": "2025-06-15",
+        "user_email": "vincentwarner@yahoo.com",
+        "user_id": "5bedf406-7220-498e-888b-9dd8ae895163",
+        "review_text": "Amazing app, really easy to use. Search bar doesn\u2019t return accurate results.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-02",
+        "user_email": "blackburnbrandon@hunter.net",
+        "user_id": "85e9099f-fde7-4019-9664-6c6fb88993aa",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. It would be nice to schedule orders for later.",
+        "rating": 3
+    },
+    {
+        "date": "2025-06-27",
+        "user_email": "dsmith@hotmail.com",
+        "user_id": "2b5a71e2-4b30-4452-8461-6b7fdcf699c0",
+        "review_text": "The delivery person was very polite.",
+        "rating": 2
+    },
+    {
+        "date": "2025-05-14",
+        "user_email": "lawrence16@yahoo.com",
+        "user_id": "8646a35c-364f-4b6f-acbc-90502df0fc52",
+        "review_text": "Food arrived hot and well packed. Search bar doesn\u2019t return accurate results.",
+        "rating": 5
+    },
+    {
+        "date": "2025-06-29",
+        "user_email": "jenniferrogers@terry-aguilar.info",
+        "user_id": "d07c051a-fe43-40b4-9df9-5f2ca0b57536",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-22",
+        "user_email": "cburns@lynn.com",
+        "user_id": "09437135-643d-4f75-b667-996a3742d2b2",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-10",
+        "user_email": "srogers@yahoo.com",
+        "user_id": "2f7457b8-aaf4-4ab2-8888-80175c869a58",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-28",
+        "user_email": "gmckenzie@gmail.com",
+        "user_id": "469a8a02-f217-4c77-97c0-b18e9bdd3bba",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-23",
+        "user_email": "fletcheradam@hotmail.com",
+        "user_id": "78f18cd1-a444-407c-98d1-e06db0708a9b",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Add a filter to search for healthier options.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-24",
+        "user_email": "snovak@arnold.org",
+        "user_id": "a9da90ba-0a46-4be2-9750-a8b1b2ef056b",
+        "review_text": "Great discounts and offers! Sometimes my order disappears from the cart.",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-16",
+        "user_email": "burkemichael@daniel.com",
+        "user_id": "aadce5a8-a60d-4718-a837-1a969d6c3ead",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. App freezes when applying coupons.",
+        "rating": 5
+    },
+    {
+        "date": "2025-03-23",
+        "user_email": "mdean@gmail.com",
+        "user_id": "1daf2517-8b83-4445-a2cb-54ff5d64822c",
+        "review_text": "Great discounts and offers!",
+        "rating": 5
+    },
+    {
+        "date": "2025-05-17",
+        "user_email": "candrews@yahoo.com",
+        "user_id": "fa338f00-d9d7-4943-bbbb-3afaab2361a7",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 4
+    },
+    {
+        "date": "2025-04-30",
+        "user_email": "cdavis@gmail.com",
+        "user_id": "51509951-3453-4eec-bf8f-dd1475bce5d4",
+        "review_text": "Great discounts and offers! Dark mode option would improve the app experience.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-26",
+        "user_email": "christopher36@hotmail.com",
+        "user_id": "581ed920-71dc-4bd9-9934-b9fd92256b81",
+        "review_text": "I use this app almost daily, very reliable. Can you include nutrition details for the dishes?",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-02",
+        "user_email": "robertbarber@smith-mcdowell.com",
+        "user_id": "df53b3e7-b45d-4cf0-afca-92fe7b78bc04",
+        "review_text": "The delivery person was very polite.",
+        "rating": 4
+    },
+    {
+        "date": "2025-08-14",
+        "user_email": "christopher37@hotmail.com",
+        "user_id": "e737f2be-2faa-4844-8acb-81824bcc2172",
+        "review_text": "I use this app almost daily, very reliable. Add a filter to search for healthier options.",
+        "rating": 3
+    },
+    {
+        "date": "2025-07-15",
+        "user_email": "wileyeric@walker.com",
+        "user_id": "529343db-3cf7-41c9-9dc4-c71662a82e9f",
+        "review_text": "Amazing app, really easy to use. Search bar doesn\u2019t return accurate results.",
+        "rating": 4
+    },
+    {
+        "date": "2025-04-09",
+        "user_email": "andersonrobert@yahoo.com",
+        "user_id": "621a6aee-e3cb-43ab-8820-62d5b04bc1b2",
+        "review_text": "Great discounts and offers!",
+        "rating": 4
+    },
+    {
+        "date": "2025-03-26",
+        "user_email": "erin99@yahoo.com",
+        "user_id": "c27b9835-d320-4773-bd77-7757bf21ba3b",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 3
+    },
+    {
+        "date": "2025-06-22",
+        "user_email": "cruzadrienne@gmail.com",
+        "user_id": "77e39dbe-2e92-457a-9d07-1ed14b1cbe15",
+        "review_text": "The delivery person was very polite. Please add more payment options like PayPal.",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-05",
+        "user_email": "tim58@gmail.com",
+        "user_id": "240c99a8-f30d-4582-9c4a-35af2afaeeb4",
+        "review_text": "Food arrived hot and well packed. Search bar doesn\u2019t return accurate results.",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-05",
+        "user_email": "hernandezpaula@richard-johnson.info",
+        "user_id": "b396b704-466b-4824-8068-15e030482f21",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-07",
+        "user_email": "webstermonica@gmail.com",
+        "user_id": "c2d3e97f-4736-4e85-bd21-6b4f1e1e2dad",
+        "review_text": "Great discounts and offers!",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-07",
+        "user_email": "gjones@gmail.com",
+        "user_id": "e18aad3d-bfaa-4845-be9d-3701f9c1df06",
+        "review_text": "Great discounts and offers! I wish there was a loyalty points system.",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-16",
+        "user_email": "josethomas@clark.com",
+        "user_id": "78d2bb5f-953d-439b-96ba-9f7cc3946f88",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 5
+    },
+    {
+        "date": "2025-03-03",
+        "user_email": "ekelly@vargas.com",
+        "user_id": "d6e2cb05-5d30-4195-ad89-8b7505568699",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-09",
+        "user_email": "csanders@morton-harrington.info",
+        "user_id": "1050b3b3-def5-4b1e-ba26-32207aad5b86",
+        "review_text": "I use this app almost daily, very reliable. Search bar doesn\u2019t return accurate results.",
+        "rating": 3
+    },
+    {
+        "date": "2025-05-04",
+        "user_email": "zfoster@clayton.org",
+        "user_id": "b616310f-0f25-4f11-8139-7f8741d47519",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 5
+    },
+    {
+        "date": "2025-06-27",
+        "user_email": "cindyrichardson@hotmail.com",
+        "user_id": "c4f4fabc-f5f2-4597-9a45-c03684de496a",
+        "review_text": "Amazing app, really easy to use. App freezes when applying coupons.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-08",
+        "user_email": "yjohnson@gmail.com",
+        "user_id": "5adaf9d5-128c-4d3c-93eb-76574f2611ed",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-26",
+        "user_email": "lsteele@yahoo.com",
+        "user_id": "dcd160b1-2f01-4e89-a15d-02af4aec7344",
+        "review_text": "I use this app almost daily, very reliable. App keeps crashing when I try to checkout.",
+        "rating": 3
+    },
+    {
+        "date": "2025-06-13",
+        "user_email": "kelly60@dawson.org",
+        "user_id": "cc3a8bae-a52e-4f46-af53-3afded0f7c47",
+        "review_text": "Food arrived hot and well packed. App freezes when applying coupons.",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-14",
+        "user_email": "afarrell@yahoo.com",
+        "user_id": "b0426480-8eb6-4069-81c1-e91c496cfc2f",
+        "review_text": "Loved the quick delivery and fresh food! It would be nice to schedule orders for later.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-17",
+        "user_email": "jsmith@hotmail.com",
+        "user_id": "6fd8f6b2-5ae1-43fd-9895-2e9852e984df",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-28",
+        "user_email": "david49@brewer-watts.com",
+        "user_id": "6fc7527b-9604-432c-9678-7518b634cd66",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-10",
+        "user_email": "greed@white-weiss.org",
+        "user_id": "66d7dd05-d8f8-4a5c-b22f-20ee43dae72b",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-15",
+        "user_email": "samuel44@johnson-clements.com",
+        "user_id": "2216213e-970b-42c2-b08a-02721a3c5b81",
+        "review_text": "The delivery person was very polite.",
+        "rating": 2
+    },
+    {
+        "date": "2025-07-17",
+        "user_email": "lcobb@gmail.com",
+        "user_id": "854dd270-62bb-4a75-b2ff-ee5936ec09ad",
+        "review_text": "Food arrived hot and well packed. App keeps crashing when I try to checkout.",
+        "rating": 1
+    },
+    {
+        "date": "2025-03-23",
+        "user_email": "parsonsjoshua@ortiz.com",
+        "user_id": "12248928-fc83-4df1-b72a-c6e475b319d6",
+        "review_text": "Amazing app, really easy to use. Dark mode option would improve the app experience.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-20",
+        "user_email": "petersonaustin@brown.com",
+        "user_id": "708506f5-3fde-402d-8fc4-9f5d8a1a0329",
+        "review_text": "The delivery person was very polite.",
+        "rating": 2
+    },
+    {
+        "date": "2025-07-31",
+        "user_email": "perkinsanne@irwin.com",
+        "user_id": "dce59147-0e39-4b7e-aa66-59a01aee7145",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-19",
+        "user_email": "holmesdaniel@yahoo.com",
+        "user_id": "123c10a9-014f-4134-ac68-50e70b490256",
+        "review_text": "The delivery person was very polite. Would be great to have a live order tracking feature.",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-26",
+        "user_email": "michaelmoore@hart-duffy.com",
+        "user_id": "9e3262a1-ed37-4367-8485-38946339c894",
+        "review_text": "Food arrived hot and well packed. Can you include nutrition details for the dishes?",
+        "rating": 1
+    },
+    {
+        "date": "2025-08-02",
+        "user_email": "daniel85@gmail.com",
+        "user_id": "f21cf0a8-eda1-4546-9d98-3226e411e74f",
+        "review_text": "Loved the quick delivery and fresh food! App freezes when applying coupons.",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-25",
+        "user_email": "carterkathleen@lopez.com",
+        "user_id": "43601417-8911-4026-bd5b-4b0ba5a3a8d8",
+        "review_text": "The delivery person was very polite.",
+        "rating": 2
+    },
+    {
+        "date": "2025-06-20",
+        "user_email": "howardapril@alvarez.org",
+        "user_id": "b90d7da0-e23c-44cb-9dd2-4b3c7deb03ce",
+        "review_text": "Great discounts and offers!",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-09",
+        "user_email": "kbell@martin.org",
+        "user_id": "0ceb70fc-d8b5-4d04-bbbc-b3284f73270a",
+        "review_text": "Food arrived hot and well packed. I wish there was a loyalty points system.",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-15",
+        "user_email": "udunlap@stevenson.com",
+        "user_id": "32dd61ea-dfc0-4234-816b-afac5141685f",
+        "review_text": "Amazing app, really easy to use. It would be nice to schedule orders for later.",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-07",
+        "user_email": "walkerrhonda@hotmail.com",
+        "user_id": "04346ac8-2b3f-4992-892c-58720f307445",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Add a filter to search for healthier options.",
+        "rating": 5
+    },
+    {
+        "date": "2025-06-24",
+        "user_email": "deborahquinn@harris.com",
+        "user_id": "6b37436e-5349-4e46-8ab5-d81744e75c4d",
+        "review_text": "I use this app almost daily, very reliable. Can you include nutrition details for the dishes?",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-06",
+        "user_email": "edwardgillespie@ochoa-jones.org",
+        "user_id": "79b4f9fd-8d86-4d97-b503-ccd6ec2af59b",
+        "review_text": "Great discounts and offers!",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-14",
+        "user_email": "carolyn01@hotmail.com",
+        "user_id": "6be12fe4-4e45-4ac2-b2ee-00786530fac9",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. I wish there was a loyalty points system.",
+        "rating": 4
+    },
+    {
+        "date": "2025-03-30",
+        "user_email": "kathryn98@farley.com",
+        "user_id": "9da33fc6-14de-4a06-8163-1716eb7f1232",
+        "review_text": "Great discounts and offers! Search bar doesn\u2019t return accurate results.",
+        "rating": 5
+    },
+    {
+        "date": "2025-03-04",
+        "user_email": "dillon27@gmail.com",
+        "user_id": "d40b5e5e-ca08-418b-870f-9b5b2e56a8da",
+        "review_text": "Loved the quick delivery and fresh food! Add a filter to search for healthier options.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-08",
+        "user_email": "hicksjennifer@brown.biz",
+        "user_id": "4cc3cd2a-fb43-4e75-93e7-5c0f3ee67244",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 5
+    },
+    {
+        "date": "2025-05-09",
+        "user_email": "marquezkevin@williams-young.info",
+        "user_id": "78f9f7af-b883-480d-9bb3-72f31b30da74",
+        "review_text": "Loved the quick delivery and fresh food! Can you include nutrition details for the dishes?",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-16",
+        "user_email": "kiddlogan@yahoo.com",
+        "user_id": "23de800f-6e8b-4172-9ffb-572b612358fb",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 2
+    },
+    {
+        "date": "2025-05-14",
+        "user_email": "rowebrooke@hotmail.com",
+        "user_id": "4fa26370-f63e-4616-8982-677d1bad5e67",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-05",
+        "user_email": "fclark@gray.org",
+        "user_id": "c196a474-aef8-4e2f-80ac-246d7a3a85bc",
+        "review_text": "The delivery person was very polite. Add a filter to search for healthier options.",
+        "rating": 3
+    },
+    {
+        "date": "2025-08-05",
+        "user_email": "cathy59@baker.com",
+        "user_id": "ec77a631-08ae-4682-b212-8e3e63b9ee77",
+        "review_text": "Great discounts and offers!",
+        "rating": 4
+    },
+    {
+        "date": "2025-04-08",
+        "user_email": "berryerik@barnes.com",
+        "user_id": "63f76557-c852-4ddd-ab08-f5a85c12b79c",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 3
+    },
+    {
+        "date": "2025-06-25",
+        "user_email": "dhumphrey@hotmail.com",
+        "user_id": "4748f497-cd9c-4f5f-929f-28e59abcc871",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. It would be nice to schedule orders for later.",
+        "rating": 3
+    },
+    {
+        "date": "2025-07-10",
+        "user_email": "michele76@gmail.com",
+        "user_id": "dd37b285-805c-428e-9207-a04b2aa0c13c",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 5
+    },
+    {
+        "date": "2025-06-08",
+        "user_email": "kathywilliams@gmail.com",
+        "user_id": "253984a3-ae38-4467-b782-7483318a6d2e",
+        "review_text": "The delivery person was very polite.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-05",
+        "user_email": "karaanderson@gmail.com",
+        "user_id": "f9d00919-ee06-4eb5-8bac-35e7c67dbcf5",
+        "review_text": "Great discounts and offers! Would be great to have a live order tracking feature.",
+        "rating": 3
+    },
+    {
+        "date": "2025-07-29",
+        "user_email": "nicholas83@yahoo.com",
+        "user_id": "1cbdfd03-2b51-4003-a76d-83300e95dc21",
+        "review_text": "The delivery person was very polite. Can you include nutrition details for the dishes?",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-18",
+        "user_email": "mweaver@hotmail.com",
+        "user_id": "70c9f505-0234-4e16-afa8-84be0dc20408",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Please add more payment options like PayPal.",
+        "rating": 4
+    },
+    {
+        "date": "2025-04-22",
+        "user_email": "imartin@huffman-nguyen.com",
+        "user_id": "770ea58d-6f94-4ce2-88a6-d13d1d1426ef",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 1
+    },
+    {
+        "date": "2025-08-21",
+        "user_email": "nelsonvictoria@valencia-gordon.com",
+        "user_id": "a8f1fd20-a325-4dda-8413-efaa2a4bb77e",
+        "review_text": "Amazing app, really easy to use. Please add more payment options like PayPal.",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-14",
+        "user_email": "billy48@morales.com",
+        "user_id": "b36aa4bf-44f6-4bc5-9ff7-166f66de9f83",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-26",
+        "user_email": "miguelbell@yahoo.com",
+        "user_id": "4ac2bee4-57f9-4978-8e63-ae61173d3dec",
+        "review_text": "The delivery person was very polite. App keeps crashing when I try to checkout.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-10",
+        "user_email": "ntucker@gmail.com",
+        "user_id": "d30a89e9-d5f3-45fd-a115-8dce3c8a87e7",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-23",
+        "user_email": "richardwalls@hotmail.com",
+        "user_id": "3474ef4e-672c-4c0d-990a-1c91a979c1b0",
+        "review_text": "The delivery person was very polite. App freezes when applying coupons.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-13",
+        "user_email": "hernandezchristopher@moreno.info",
+        "user_id": "742b17ee-854b-4c31-9b9d-db28a3f7fe8b",
+        "review_text": "I use this app almost daily, very reliable. Payment fails too often.",
+        "rating": 1
+    },
+    {
+        "date": "2025-08-16",
+        "user_email": "patricia24@yahoo.com",
+        "user_id": "f5de1172-5efb-49af-9a8c-939c432e139d",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-20",
+        "user_email": "hawkinsmatthew@gmail.com",
+        "user_id": "f3e90d1d-c059-42d8-9855-a7d1b2c11434",
+        "review_text": "Amazing app, really easy to use. Sometimes my order disappears from the cart.",
+        "rating": 3
+    },
+    {
+        "date": "2025-06-28",
+        "user_email": "kevincantu@brown.info",
+        "user_id": "3a373a3a-c4fe-4f86-88fc-4f280a2fb2fd",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-20",
+        "user_email": "jeffrey82@smith-williams.com",
+        "user_id": "c41193fd-93d1-4d86-bee2-8952046fd4a8",
+        "review_text": "I use this app almost daily, very reliable. Notifications don\u2019t work properly.",
+        "rating": 5
+    },
+    {
+        "date": "2025-06-25",
+        "user_email": "wbyrd@melton-ward.info",
+        "user_id": "aa6ec377-2610-47a3-878d-763169b7c96c",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. App freezes when applying coupons.",
+        "rating": 2
+    },
+    {
+        "date": "2025-08-05",
+        "user_email": "dawnhudson@esparza.biz",
+        "user_id": "eaedf107-aac3-4268-af95-bf3cfe87fb63",
+        "review_text": "Great discounts and offers!",
+        "rating": 4
+    },
+    {
+        "date": "2025-03-28",
+        "user_email": "hopatricia@novak.com",
+        "user_id": "00d0c7b2-04ae-43cd-82a8-3edcea1d8ea3",
+        "review_text": "I use this app almost daily, very reliable. I wish there was a loyalty points system.",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-21",
+        "user_email": "mjordan@yahoo.com",
+        "user_id": "261b8457-3024-4a39-adb4-e42cdfb4cf45",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 3
+    },
+    {
+        "date": "2025-07-01",
+        "user_email": "tonyakramer@gmail.com",
+        "user_id": "4a0a6c22-baa2-4212-a233-21da68249b44",
+        "review_text": "The delivery person was very polite. I wish there was a loyalty points system.",
+        "rating": 2
+    },
+    {
+        "date": "2025-07-25",
+        "user_email": "zacharywashington@medina-bailey.com",
+        "user_id": "cecc440a-ddbb-4f00-bb79-474a9718c434",
+        "review_text": "I use this app almost daily, very reliable. App freezes when applying coupons.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-27",
+        "user_email": "cindy41@yahoo.com",
+        "user_id": "221cf8e2-256a-4c62-982b-a8a647271d0b",
+        "review_text": "Amazing app, really easy to use. I wish there was a loyalty points system.",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-05",
+        "user_email": "hmitchell@lopez-jennings.com",
+        "user_id": "f930b898-a135-4be4-a951-263500fca74b",
+        "review_text": "Food arrived hot and well packed. Payment fails too often.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-23",
+        "user_email": "moniquesmith@prince.com",
+        "user_id": "9b6291ec-8f7b-4ea1-b2f3-10f8f951013f",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 2
+    },
+    {
+        "date": "2025-08-06",
+        "user_email": "scottwhite@cook.biz",
+        "user_id": "e6cff47f-8660-4150-a695-bba68179f532",
+        "review_text": "Great discounts and offers!",
+        "rating": 1
+    },
+    {
+        "date": "2025-03-19",
+        "user_email": "brewerkrista@yahoo.com",
+        "user_id": "71e3486e-34c2-4301-9148-70661b5b6814",
+        "review_text": "Food arrived hot and well packed. Add a filter to search for healthier options.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-16",
+        "user_email": "nwalker@gmail.com",
+        "user_id": "3e565a0a-fb29-4743-bd7f-0ccbfdefc2ba",
+        "review_text": "Loved the quick delivery and fresh food! Please add more payment options like PayPal.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-12",
+        "user_email": "browntyler@myers.com",
+        "user_id": "6b2bed06-5dc0-4b68-b8ee-5fd6163e52e6",
+        "review_text": "The delivery person was very polite.",
+        "rating": 3
+    },
+    {
+        "date": "2025-07-25",
+        "user_email": "todd81@gmail.com",
+        "user_id": "bb9e9c75-c5b9-40e1-9275-f6236b6c77f0",
+        "review_text": "The delivery person was very polite.",
+        "rating": 3
+    },
+    {
+        "date": "2025-06-18",
+        "user_email": "mayojacob@yahoo.com",
+        "user_id": "3f105c1b-ff0d-492e-aa65-175ec3356ab1",
+        "review_text": "I use this app almost daily, very reliable. Please add more payment options like PayPal.",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-14",
+        "user_email": "julia73@lam.com",
+        "user_id": "b5e1963b-09da-41b2-8b23-398118875d9b",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. The map tracking doesn\u2019t update in real time.",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-22",
+        "user_email": "richarddoyle@gmail.com",
+        "user_id": "17fcbba7-6d28-4fbe-8cfa-198f3895dc86",
+        "review_text": "Amazing app, really easy to use. Add a filter to search for healthier options.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-17",
+        "user_email": "smithkevin@wilcox-griffith.net",
+        "user_id": "b324d42a-5214-4272-b81e-13a80cdc1864",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. It would be nice to schedule orders for later.",
+        "rating": 2
+    },
+    {
+        "date": "2025-05-01",
+        "user_email": "lewisangie@yahoo.com",
+        "user_id": "37d243c4-0279-4310-99d7-ab62a8b61881",
+        "review_text": "Food arrived hot and well packed. App freezes when applying coupons.",
+        "rating": 3
+    },
+    {
+        "date": "2025-07-08",
+        "user_email": "elizabethjenkins@gmail.com",
+        "user_id": "19a68b27-1050-4783-85a2-45dbd27bb2de",
+        "review_text": "Great discounts and offers!",
+        "rating": 2
+    },
+    {
+        "date": "2025-05-14",
+        "user_email": "gonzalezamanda@waters.info",
+        "user_id": "1f062b6a-8410-41c5-8d40-8e7d29d1e458",
+        "review_text": "The delivery person was very polite. Please add more payment options like PayPal.",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-08",
+        "user_email": "brandon47@allen.com",
+        "user_id": "5b3eb334-2dd8-4596-bd11-201b570a6808",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-29",
+        "user_email": "rose27@daniels-acevedo.com",
+        "user_id": "9cc178e7-531d-4208-aaa5-35a52ac0a168",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 4
+    },
+    {
+        "date": "2025-03-28",
+        "user_email": "andersoncourtney@barrett.com",
+        "user_id": "59563476-bf83-4510-9b3f-afee9248da79",
+        "review_text": "Great discounts and offers!",
+        "rating": 3
+    },
+    {
+        "date": "2025-08-02",
+        "user_email": "vmoore@ibarra-escobar.com",
+        "user_id": "793929b8-78fe-4620-8597-1183d4851971",
+        "review_text": "Loved the quick delivery and fresh food! Please add more payment options like PayPal.",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-08",
+        "user_email": "gjohnston@owens.com",
+        "user_id": "4d97f82f-db46-4148-8172-924aefb78254",
+        "review_text": "Great discounts and offers! Sometimes my order disappears from the cart.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-22",
+        "user_email": "emaxwell@gmail.com",
+        "user_id": "9639ac5c-0bc1-4e0f-b4ba-adba86fb3d3f",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Add a filter to search for healthier options.",
+        "rating": 2
+    },
+    {
+        "date": "2025-08-22",
+        "user_email": "polson@mitchell.info",
+        "user_id": "6de1c572-0dd5-41f2-8baa-c10d0e2c6e56",
+        "review_text": "Loved the quick delivery and fresh food! Notifications don\u2019t work properly.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-04",
+        "user_email": "mitchellkyle@davis.com",
+        "user_id": "d819e1d4-9546-4a00-be45-3ce5369680b3",
+        "review_text": "The delivery person was very polite.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-02",
+        "user_email": "gregorypearson@gmail.com",
+        "user_id": "b6e9e9db-5950-4909-aab3-91b83c9da5d1",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-07",
+        "user_email": "graynathaniel@hotmail.com",
+        "user_id": "98e2adf5-07f0-4fec-8e48-bf4e591721a8",
+        "review_text": "Amazing app, really easy to use. Search bar doesn\u2019t return accurate results.",
+        "rating": 4
+    },
+    {
+        "date": "2025-08-22",
+        "user_email": "yowens@rios.com",
+        "user_id": "5de655cb-81d7-4423-835f-0473300fe261",
+        "review_text": "The delivery person was very polite.",
+        "rating": 1
+    },
+    {
+        "date": "2025-03-06",
+        "user_email": "fwood@yahoo.com",
+        "user_id": "d76f6d4f-29e5-43d0-aa36-14ea12e2da84",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 1
+    },
+    {
+        "date": "2025-08-12",
+        "user_email": "kimberly46@moore.biz",
+        "user_id": "752fbe3a-487b-4d2e-975e-5ccaecbd9539",
+        "review_text": "Great discounts and offers!",
+        "rating": 5
+    },
+    {
+        "date": "2025-05-12",
+        "user_email": "vibarra@andrews-doyle.net",
+        "user_id": "b6860386-5ba1-480f-a5c1-44004aa28e26",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 5
+    },
+    {
+        "date": "2025-05-02",
+        "user_email": "lauracarey@gmail.com",
+        "user_id": "a2e1344e-a2ea-4d00-b2fd-3c32fe75c69c",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-13",
+        "user_email": "yelliott@parks.biz",
+        "user_id": "d69a2264-b51e-4366-851d-37fed5ada243",
+        "review_text": "The delivery person was very polite. Notifications don\u2019t work properly.",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-07",
+        "user_email": "caitlinclarke@hill-ibarra.biz",
+        "user_id": "2c175cc0-a37e-4170-b64e-21e4183fbc4f",
+        "review_text": "I use this app almost daily, very reliable. Dark mode option would improve the app experience.",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-02",
+        "user_email": "megan01@yahoo.com",
+        "user_id": "fb4e5b8c-111e-4f49-8606-42078add0c11",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Would be great to have a live order tracking feature.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-26",
+        "user_email": "ahoward@brown.info",
+        "user_id": "506f837b-bdf3-44a4-8884-c8afb8059c59",
+        "review_text": "I use this app almost daily, very reliable. Dark mode option would improve the app experience.",
+        "rating": 4
+    },
+    {
+        "date": "2025-08-04",
+        "user_email": "jillcharles@ford.com",
+        "user_id": "bf45b9a5-f6e9-467c-8912-0d67e19c9ff1",
+        "review_text": "The delivery person was very polite. Dark mode option would improve the app experience.",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-17",
+        "user_email": "clarkescott@gmail.com",
+        "user_id": "e2ab13b6-20ee-44fe-9bf7-4bedd33ae065",
+        "review_text": "Food arrived hot and well packed. Add a filter to search for healthier options.",
+        "rating": 2
+    },
+    {
+        "date": "2025-06-11",
+        "user_email": "heatherallen@gmail.com",
+        "user_id": "06d54e95-108c-44ff-a079-08d38fc109de",
+        "review_text": "Great discounts and offers!",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-20",
+        "user_email": "fmiller@gmail.com",
+        "user_id": "3f60ea6d-dd11-446c-8def-808b3f145f0a",
+        "review_text": "Amazing app, really easy to use. Sometimes my order disappears from the cart.",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-21",
+        "user_email": "lcoleman@russell.org",
+        "user_id": "cc6fb369-911a-41fc-a0ec-f42288c9fd71",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 5
+    },
+    {
+        "date": "2025-06-12",
+        "user_email": "khanchristina@fleming-hunt.com",
+        "user_id": "9142f0ce-2ec7-42dd-8162-5bda9a887b36",
+        "review_text": "Great discounts and offers! Sometimes my order disappears from the cart.",
+        "rating": 5
+    },
+    {
+        "date": "2025-06-03",
+        "user_email": "christopher79@conrad.biz",
+        "user_id": "4ba173dc-1717-4274-8f59-954f3a27fce5",
+        "review_text": "The delivery person was very polite. Would be great to have a live order tracking feature.",
+        "rating": 4
+    },
+    {
+        "date": "2025-08-16",
+        "user_email": "lewistravis@hotmail.com",
+        "user_id": "98ef647a-771b-4850-95ba-1d9339558f47",
+        "review_text": "Amazing app, really easy to use. I wish there was a loyalty points system.",
+        "rating": 1
+    },
+    {
+        "date": "2025-08-26",
+        "user_email": "wmarquez@beasley-green.biz",
+        "user_id": "2e559b81-28c0-4b6d-a752-803e206a4fbf",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-01",
+        "user_email": "cwilson@gmail.com",
+        "user_id": "a30f91bd-f1a8-439d-8d0d-3bfa2fbefb1b",
+        "review_text": "Great discounts and offers!",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-25",
+        "user_email": "guy85@yahoo.com",
+        "user_id": "a750426f-304e-41d7-a1e0-1c5abdd4a736",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-25",
+        "user_email": "greennicole@gmail.com",
+        "user_id": "6160cd8e-76ec-40df-9e84-31e86f992aef",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Please add more payment options like PayPal.",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-23",
+        "user_email": "vaughanbrittany@powell.biz",
+        "user_id": "60aded4d-5d79-41b7-8c0f-8c7558f5ce2f",
+        "review_text": "The delivery person was very polite. Add a filter to search for healthier options.",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-11",
+        "user_email": "christopher33@yahoo.com",
+        "user_id": "1761c60e-8afd-454c-8504-0a7d1b9902b0",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 5
+    },
+    {
+        "date": "2025-05-17",
+        "user_email": "javier58@gmail.com",
+        "user_id": "8e647cf5-2d9a-4bab-be96-f8311c4a0db2",
+        "review_text": "The delivery person was very polite. I wish there was a loyalty points system.",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-06",
+        "user_email": "hahnjoseph@gutierrez-orr.com",
+        "user_id": "4e1d9bb4-6adb-4bdd-9476-08e3fd414704",
+        "review_text": "Loved the quick delivery and fresh food! The map tracking doesn\u2019t update in real time.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-30",
+        "user_email": "hallmicheal@gmail.com",
+        "user_id": "42aa8fbe-143d-4279-a002-4e3b3dbcd408",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-20",
+        "user_email": "mcmahonsean@yahoo.com",
+        "user_id": "bb4607cd-b1cd-40e5-a574-c425c237d5eb",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Can you include nutrition details for the dishes?",
+        "rating": 4
+    },
+    {
+        "date": "2025-06-06",
+        "user_email": "katrina04@yahoo.com",
+        "user_id": "9ff9b90b-6c34-4f85-b72f-97ab6d42eae7",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 2
+    },
+    {
+        "date": "2025-06-10",
+        "user_email": "beverly17@duran.com",
+        "user_id": "90ce4f1c-f67f-4480-85de-f472dc75ae51",
+        "review_text": "Loved the quick delivery and fresh food! Would be great to have a live order tracking feature.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-21",
+        "user_email": "pereztimothy@alvarez-mclaughlin.com",
+        "user_id": "495c488c-7ad3-43f2-a113-2dc535149307",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-16",
+        "user_email": "alexanderwood@gonzales.com",
+        "user_id": "2aabf05b-c847-4dc1-b8d1-72bbb976f60f",
+        "review_text": "Food arrived hot and well packed. Would be great to have a live order tracking feature.",
+        "rating": 5
+    },
+    {
+        "date": "2025-07-10",
+        "user_email": "gonzalezwanda@yahoo.com",
+        "user_id": "e864ceca-8d33-479c-8234-796daca78355",
+        "review_text": "Loved the quick delivery and fresh food! Dark mode option would improve the app experience.",
+        "rating": 1
+    },
+    {
+        "date": "2025-08-16",
+        "user_email": "bauertim@johnson.info",
+        "user_id": "3b705f11-a8a7-43c3-b290-9cc168677c4e",
+        "review_text": "Loved the quick delivery and fresh food! Please add more payment options like PayPal.",
+        "rating": 5
+    },
+    {
+        "date": "2025-05-31",
+        "user_email": "sydney87@hotmail.com",
+        "user_id": "9a2ebe63-d329-4c30-a6eb-f94d34ff1fc2",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Can you include nutrition details for the dishes?",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-23",
+        "user_email": "alexanderzachary@madden.com",
+        "user_id": "c656ff87-c788-4b80-ab9c-a954f2b0ef7a",
+        "review_text": "Food arrived hot and well packed. App keeps crashing when I try to checkout.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-13",
+        "user_email": "nicoleadams@clark.biz",
+        "user_id": "a1e96f97-a9c6-4235-990f-6cc8aedfd037",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-19",
+        "user_email": "jeffreygriffin@ellis-sullivan.info",
+        "user_id": "a607fe11-3dea-4bbe-a531-46b185d1c845",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 4
+    },
+    {
+        "date": "2025-03-19",
+        "user_email": "barbara76@johnson.com",
+        "user_id": "775a5db1-4c3d-46af-9786-c9b01c263324",
+        "review_text": "Food arrived hot and well packed. Would be great to have a live order tracking feature.",
+        "rating": 1
+    },
+    {
+        "date": "2025-08-10",
+        "user_email": "michael64@hotmail.com",
+        "user_id": "8e270ed2-b936-4202-b97e-a0badbca7863",
+        "review_text": "Great discounts and offers! Dark mode option would improve the app experience.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-20",
+        "user_email": "klee@yahoo.com",
+        "user_id": "bdba6f8d-49c7-42b2-bf11-f02276e3cfd4",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-23",
+        "user_email": "carolyn81@hotmail.com",
+        "user_id": "f492ce37-86e2-4968-8e8b-6cbc8f9ec16a",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Dark mode option would improve the app experience.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-07",
+        "user_email": "barryronald@yahoo.com",
+        "user_id": "acc1a25a-42f0-4c24-ac62-f7a3af98e590",
+        "review_text": "Amazing app, really easy to use. Would be great to have a live order tracking feature.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-08",
+        "user_email": "kellyferguson@thompson.com",
+        "user_id": "27dacb42-1039-4412-bd82-b8c69959a3a2",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 3
+    },
+    {
+        "date": "2025-05-25",
+        "user_email": "johnstonkatherine@yahoo.com",
+        "user_id": "ece01111-8f8e-4d49-89e9-2b8985e8bb3a",
+        "review_text": "Amazing app, really easy to use. Please add more payment options like PayPal.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-15",
+        "user_email": "mariah60@yahoo.com",
+        "user_id": "1beb9d22-d232-44cf-8a28-4852906d8020",
+        "review_text": "Amazing app, really easy to use. Add a filter to search for healthier options.",
+        "rating": 2
+    },
+    {
+        "date": "2025-05-18",
+        "user_email": "briansmith@yahoo.com",
+        "user_id": "39c0742c-e458-41e6-bbef-113f6a269814",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. I wish there was a loyalty points system.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-12",
+        "user_email": "murphybonnie@klein-kim.com",
+        "user_id": "20aeb6b2-5f85-4b5d-a726-184baf44f994",
+        "review_text": "I use this app almost daily, very reliable. Search bar doesn\u2019t return accurate results.",
+        "rating": 4
+    },
+    {
+        "date": "2025-04-30",
+        "user_email": "randalllawrence@young.com",
+        "user_id": "014bf0ea-2d05-46eb-908b-e370266f2bef",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-23",
+        "user_email": "jenniferjohnson@hotmail.com",
+        "user_id": "c00e4f3b-8e75-499a-afb2-eea2682b085a",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Please add more payment options like PayPal.",
+        "rating": 2
+    },
+    {
+        "date": "2025-07-17",
+        "user_email": "brooke78@moore-hernandez.org",
+        "user_id": "4eae1679-61d6-4f1f-861a-bcd8dc054e01",
+        "review_text": "Food arrived hot and well packed. I wish there was a loyalty points system.",
+        "rating": 2
+    },
+    {
+        "date": "2025-05-26",
+        "user_email": "robert16@haynes.com",
+        "user_id": "3ccba2ea-b5f1-427d-80ac-d11a7028bec9",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-29",
+        "user_email": "ocastro@woods.com",
+        "user_id": "49d4bde6-19f9-43d6-9383-b96ce07db2da",
+        "review_text": "Great discounts and offers!",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-05",
+        "user_email": "maysanthony@simmons.biz",
+        "user_id": "7373fff8-73e4-4110-9a15-317616236249",
+        "review_text": "Great discounts and offers! Search bar doesn\u2019t return accurate results.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-22",
+        "user_email": "harrisonperry@thomas.com",
+        "user_id": "d9c98c59-770f-4364-9437-97a0deb6446d",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. I wish there was a loyalty points system.",
+        "rating": 3
+    },
+    {
+        "date": "2025-07-26",
+        "user_email": "sandranash@stein.biz",
+        "user_id": "2320b02f-8afc-427a-a9da-799b72f31c73",
+        "review_text": "I use this app almost daily, very reliable. Can you include nutrition details for the dishes?",
+        "rating": 2
+    },
+    {
+        "date": "2025-08-26",
+        "user_email": "kevin21@hotmail.com",
+        "user_id": "d823e439-2f47-4840-b574-8d381d6047a3",
+        "review_text": "Food arrived hot and well packed. Add a filter to search for healthier options.",
+        "rating": 1
+    },
+    {
+        "date": "2025-08-17",
+        "user_email": "davenportcarol@yahoo.com",
+        "user_id": "cbba3655-b563-48af-be23-bbcabd3bc590",
+        "review_text": "The delivery person was very polite.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-15",
+        "user_email": "vanderson@berry.biz",
+        "user_id": "589b618f-b240-4de7-bf8b-5c7cff4cdb1d",
+        "review_text": "Food arrived hot and well packed. App keeps crashing when I try to checkout.",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-23",
+        "user_email": "jnovak@johnson.com",
+        "user_id": "f26bd1c4-fe3c-46dc-a824-112858d167da",
+        "review_text": "The delivery person was very polite. App freezes when applying coupons.",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-26",
+        "user_email": "gstephens@gmail.com",
+        "user_id": "7cf97a48-995f-4b8a-b1d9-7e98cb58f692",
+        "review_text": "Great discounts and offers!",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-10",
+        "user_email": "ygonzalez@johnson.com",
+        "user_id": "0fc03520-edd5-492e-89eb-666ceaa9ead7",
+        "review_text": "Great discounts and offers! Dark mode option would improve the app experience.",
+        "rating": 1
+    },
+    {
+        "date": "2025-04-23",
+        "user_email": "imartinez@hotmail.com",
+        "user_id": "7e40e1fc-6384-45ff-a399-9a2ddf8b7e91",
+        "review_text": "I use this app almost daily, very reliable. Please add more payment options like PayPal.",
+        "rating": 2
+    },
+    {
+        "date": "2025-08-10",
+        "user_email": "antoniomorris@young.com",
+        "user_id": "ada85be5-50a4-49ed-8749-11dd20c5a2bf",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 3
+    },
+    {
+        "date": "2025-05-23",
+        "user_email": "jamesstephanie@yahoo.com",
+        "user_id": "07100b8c-26d4-42b0-b43a-c635809fcc5e",
+        "review_text": "Amazing app, really easy to use. Notifications don\u2019t work properly.",
+        "rating": 5
+    },
+    {
+        "date": "2025-06-09",
+        "user_email": "shelia13@yahoo.com",
+        "user_id": "438a8a51-c9d7-43d4-bf89-a2bb35b8f28b",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-28",
+        "user_email": "aprildurham@cox.info",
+        "user_id": "11075ce7-8118-484f-84ad-781da8dac6e7",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 1
+    },
+    {
+        "date": "2025-08-22",
+        "user_email": "khill@hotmail.com",
+        "user_id": "3be6a876-8330-4731-a4c2-5319969f10fc",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-24",
+        "user_email": "rebecca00@hammond.net",
+        "user_id": "f0d9b25f-17a7-463b-86cc-29d8d6af016a",
+        "review_text": "Loved the quick delivery and fresh food! Can you include nutrition details for the dishes?",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-18",
+        "user_email": "donnacalderon@gmail.com",
+        "user_id": "7a465e42-9ea4-4e2e-b477-96bd452488fe",
+        "review_text": "Great discounts and offers! Please add more payment options like PayPal.",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-01",
+        "user_email": "sharon30@gmail.com",
+        "user_id": "84184c92-a768-44c6-9d81-15d94912cfe4",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 5
+    },
+    {
+        "date": "2025-07-20",
+        "user_email": "ellismark@petty.com",
+        "user_id": "9b44bdcd-c00f-49ac-b0da-f1aacfedda97",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Sometimes my order disappears from the cart.",
+        "rating": 5
+    },
+    {
+        "date": "2025-07-29",
+        "user_email": "yjackson@yahoo.com",
+        "user_id": "fb23d11c-617f-4eb7-8d21-4d3af4cbb57b",
+        "review_text": "Great discounts and offers! It would be nice to schedule orders for later.",
+        "rating": 5
+    },
+    {
+        "date": "2025-07-13",
+        "user_email": "nrussell@brown.com",
+        "user_id": "65cef3ee-74ae-4d22-9f4b-47a194f5126a",
+        "review_text": "The delivery person was very polite.",
+        "rating": 2
+    },
+    {
+        "date": "2025-06-27",
+        "user_email": "david67@johnson-golden.com",
+        "user_id": "0dbaf914-d59a-46de-ac2f-660969fd41e8",
+        "review_text": "Loved the quick delivery and fresh food! Please add more payment options like PayPal.",
+        "rating": 1
+    },
+    {
+        "date": "2025-08-20",
+        "user_email": "kelly39@yahoo.com",
+        "user_id": "56e33c3a-369c-4b6b-b8ef-4c230b8663ca",
+        "review_text": "Loved the quick delivery and fresh food! Dark mode option would improve the app experience.",
+        "rating": 5
+    },
+    {
+        "date": "2025-03-27",
+        "user_email": "vdodson@gmail.com",
+        "user_id": "ce1bea17-352f-480e-9414-8d86d140cbee",
+        "review_text": "Great discounts and offers!",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-15",
+        "user_email": "sarahzhang@gmail.com",
+        "user_id": "40fafa80-a35a-44b0-8dbb-00970fe1f23d",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 3
+    },
+    {
+        "date": "2025-07-25",
+        "user_email": "mbailey@chen.biz",
+        "user_id": "9c60d6a8-c095-4043-aa20-eda84c7535df",
+        "review_text": "Food arrived hot and well packed. Would be great to have a live order tracking feature.",
+        "rating": 1
+    },
+    {
+        "date": "2025-03-22",
+        "user_email": "figueroajonathon@larson.com",
+        "user_id": "312e8c3f-b554-44a4-9683-0062875b4963",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 5
+    },
+    {
+        "date": "2025-05-17",
+        "user_email": "james52@nelson-miller.com",
+        "user_id": "06ee3e48-bc56-4e96-b366-f98936b328d8",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Please add more payment options like PayPal.",
+        "rating": 3
+    },
+    {
+        "date": "2025-05-01",
+        "user_email": "jill31@steele-morris.net",
+        "user_id": "c305cb40-2f20-4dd1-aa49-ad8d1da7dfc3",
+        "review_text": "Food arrived hot and well packed. The map tracking doesn\u2019t update in real time.",
+        "rating": 5
+    },
+    {
+        "date": "2025-05-01",
+        "user_email": "lindapotter@wall.com",
+        "user_id": "d6b972f8-78ac-4c1a-95db-2c99623a6a91",
+        "review_text": "I use this app almost daily, very reliable. App keeps crashing when I try to checkout.",
+        "rating": 3
+    },
+    {
+        "date": "2025-07-12",
+        "user_email": "paul58@hotmail.com",
+        "user_id": "0a09cc2a-5580-43f0-876f-5ac22f7e17d5",
+        "review_text": "I use this app almost daily, very reliable. Can you include nutrition details for the dishes?",
+        "rating": 5
+    },
+    {
+        "date": "2025-07-28",
+        "user_email": "taylorchristina@gmail.com",
+        "user_id": "615879e2-61e3-4a71-bcd3-5700be4a05ba",
+        "review_text": "The delivery person was very polite.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-31",
+        "user_email": "courtney34@yahoo.com",
+        "user_id": "93315ac6-62f9-44cb-8371-df8e40be075b",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 3
+    },
+    {
+        "date": "2025-05-25",
+        "user_email": "rrichards@yahoo.com",
+        "user_id": "1d2696c8-55c9-4465-bfc4-f706c8dd6958",
+        "review_text": "Great discounts and offers! I wish there was a loyalty points system.",
+        "rating": 3
+    },
+    {
+        "date": "2025-07-16",
+        "user_email": "kwalters@castillo.biz",
+        "user_id": "66405691-34db-485a-b047-73785e2ebe79",
+        "review_text": "Great discounts and offers!",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-30",
+        "user_email": "emily96@gmail.com",
+        "user_id": "4259812c-54b1-4fcd-9e1f-b00b3a2c8b66",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Notifications don\u2019t work properly.",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-03",
+        "user_email": "awright@brown.com",
+        "user_id": "9f392306-99ca-48df-8f0c-aa8f928dc858",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-14",
+        "user_email": "matthewfarrell@wu-brown.com",
+        "user_id": "2f6eca1f-ff4f-43b9-b9ff-0929323df2a8",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 4
+    },
+    {
+        "date": "2025-08-01",
+        "user_email": "eflores@reed-hamilton.com",
+        "user_id": "f036a9de-696f-4b36-9908-7db8e33ad8ee",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-05",
+        "user_email": "robert30@hunter.com",
+        "user_id": "d4ff82ff-ec2b-4c4f-8092-d927fe49921e",
+        "review_text": "Great discounts and offers! I wish there was a loyalty points system.",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-29",
+        "user_email": "waltoncharles@hotmail.com",
+        "user_id": "fb868754-6485-4717-9545-1fbd6023f672",
+        "review_text": "Loved the quick delivery and fresh food! Sometimes my order disappears from the cart.",
+        "rating": 1
+    },
+    {
+        "date": "2025-03-06",
+        "user_email": "hendersonfrederick@reed.net",
+        "user_id": "1de506e0-1857-4c63-bfc1-aae2bd0f372b",
+        "review_text": "Great discounts and offers! It would be nice to schedule orders for later.",
+        "rating": 5
+    },
+    {
+        "date": "2025-05-20",
+        "user_email": "sarah03@jones-rose.com",
+        "user_id": "dd0ba6bc-cd9c-4245-abee-bb709c612899",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 4
+    },
+    {
+        "date": "2025-03-16",
+        "user_email": "hicksmatthew@freeman.com",
+        "user_id": "42d4ea5d-48ee-439f-9c52-f4263b2e58f8",
+        "review_text": "I use this app almost daily, very reliable. I wish there was a loyalty points system.",
+        "rating": 1
+    },
+    {
+        "date": "2025-07-15",
+        "user_email": "browndawn@navarro-griffin.com",
+        "user_id": "4c5cac4c-ea21-44fb-bf71-49ab3cf45b8f",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-01",
+        "user_email": "raymichael@thornton.biz",
+        "user_id": "7adbb7a3-87e5-43ac-8ffe-3b43ff2a144e",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. App keeps crashing when I try to checkout.",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-19",
+        "user_email": "danielfrederick@gmail.com",
+        "user_id": "35d61354-aa31-435e-84d0-1f23c2d3647f",
+        "review_text": "Loved the quick delivery and fresh food! Dark mode option would improve the app experience.",
+        "rating": 3
+    },
+    {
+        "date": "2025-05-19",
+        "user_email": "davidaaron@coleman.com",
+        "user_id": "6f4393dd-d947-4226-8f39-77ec4af9a05e",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 2
+    },
+    {
+        "date": "2025-06-02",
+        "user_email": "jordandavid@hotmail.com",
+        "user_id": "3f74e1b4-fde4-469f-ae97-b471133cf60e",
+        "review_text": "The delivery person was very polite. Search bar doesn\u2019t return accurate results.",
+        "rating": 1
+    },
+    {
+        "date": "2025-08-16",
+        "user_email": "qwilliams@hotmail.com",
+        "user_id": "11debcef-5320-4f62-90b0-6def3d2a7265",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-17",
+        "user_email": "gonzalessusan@gmail.com",
+        "user_id": "0ee8c936-3fef-4310-acf6-11af6d94974d",
+        "review_text": "I use this app almost daily, very reliable. Add a filter to search for healthier options.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-26",
+        "user_email": "davidcurtis@yahoo.com",
+        "user_id": "f695b074-864d-4da5-b595-155719463ba8",
+        "review_text": "Great discounts and offers! Notifications don\u2019t work properly.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-05",
+        "user_email": "pattersonheather@yahoo.com",
+        "user_id": "eb455715-29a6-4250-a0f9-5ce4037e2806",
+        "review_text": "Food arrived hot and well packed. Can you include nutrition details for the dishes?",
+        "rating": 3
+    },
+    {
+        "date": "2025-07-10",
+        "user_email": "jameschristensen@murphy.com",
+        "user_id": "02176c08-bfbf-46e7-8a88-6ed4c999a3d6",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 1
+    },
+    {
+        "date": "2025-08-11",
+        "user_email": "anne10@yahoo.com",
+        "user_id": "d4b2aa98-259e-4e46-818a-3084777a08e9",
+        "review_text": "Great discounts and offers! Please add more payment options like PayPal.",
+        "rating": 1
+    },
+    {
+        "date": "2025-05-30",
+        "user_email": "ifitzpatrick@reed.com",
+        "user_id": "9c9927d7-be77-4793-aa70-66a7d06eab5d",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 2
+    },
+    {
+        "date": "2025-06-10",
+        "user_email": "william33@ramos.com",
+        "user_id": "718b5aa2-a4dc-4a41-93e2-dcbf5665172e",
+        "review_text": "Great discounts and offers!",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-27",
+        "user_email": "hrosales@gmail.com",
+        "user_id": "371b94fc-a816-48c9-a751-7f0a2398d1f2",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 3
+    },
+    {
+        "date": "2025-08-08",
+        "user_email": "angelawilliams@hotmail.com",
+        "user_id": "abd28bbb-19b4-4a95-bf94-1791cc5d1d21",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 5
+    },
+    {
+        "date": "2025-05-15",
+        "user_email": "hortondenise@yahoo.com",
+        "user_id": "eab8b2a7-216d-4c74-9e38-ba1cb7460f4b",
+        "review_text": "Loved the quick delivery and fresh food! Can you include nutrition details for the dishes?",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-16",
+        "user_email": "anthony21@scott.com",
+        "user_id": "a02f77e8-4dc4-4f84-b7d8-c5d1361011e3",
+        "review_text": "Great discounts and offers! Would be great to have a live order tracking feature.",
+        "rating": 2
+    },
+    {
+        "date": "2025-08-19",
+        "user_email": "kimtony@gmail.com",
+        "user_id": "e9c28872-c9b9-4000-9137-dda670fefbe7",
+        "review_text": "The delivery person was very polite.",
+        "rating": 3
+    },
+    {
+        "date": "2025-04-14",
+        "user_email": "stewartandres@gmail.com",
+        "user_id": "1e976cc1-cc58-4376-b854-12994ad02515",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Would be great to have a live order tracking feature.",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-06",
+        "user_email": "petersongabriel@gmail.com",
+        "user_id": "09f7adc3-9679-4a19-8d49-c62345cf7c6d",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Payment fails too often.",
+        "rating": 2
+    },
+    {
+        "date": "2025-03-24",
+        "user_email": "sean61@hotmail.com",
+        "user_id": "2a060122-2278-41f3-8433-925d6785b3e8",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good.",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-07",
+        "user_email": "patrick60@smith.biz",
+        "user_id": "75d09f96-1d28-489b-8cd8-b624c1e0e759",
+        "review_text": "Amazing app, really easy to use. Sometimes my order disappears from the cart.",
+        "rating": 4
+    },
+    {
+        "date": "2025-08-03",
+        "user_email": "jennifergordon@hall-villarreal.com",
+        "user_id": "6590fb0a-ecd5-4fc6-b598-a1ad5bcac764",
+        "review_text": "The delivery person was very polite. Dark mode option would improve the app experience.",
+        "rating": 5
+    },
+    {
+        "date": "2025-04-03",
+        "user_email": "juliepatrick@yahoo.com",
+        "user_id": "8dfacebb-1b45-48af-aac3-ee5fa938bac4",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 3
+    },
+    {
+        "date": "2025-05-02",
+        "user_email": "ortegalisa@yahoo.com",
+        "user_id": "f12d1551-74c7-4fb7-bad6-32210ff7b302",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 3
+    },
+    {
+        "date": "2025-07-17",
+        "user_email": "ashley21@thomas-ward.biz",
+        "user_id": "c2d7d0de-6315-410f-8e90-8c8f8bf12e8a",
+        "review_text": "Amazing app, really easy to use. Please add more payment options like PayPal.",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-17",
+        "user_email": "nanthony@gmail.com",
+        "user_id": "76c8c9b3-8b8d-45c0-a3e5-885f2c95e096",
+        "review_text": "Food arrived hot and well packed.",
+        "rating": 1
+    },
+    {
+        "date": "2025-03-18",
+        "user_email": "jacksonjill@olson-jackson.biz",
+        "user_id": "64159804-3927-46af-b83a-04e0d6d268f5",
+        "review_text": "Amazing app, really easy to use.",
+        "rating": 4
+    },
+    {
+        "date": "2025-03-04",
+        "user_email": "susan96@bauer-garcia.net",
+        "user_id": "efb64d48-2ffc-43eb-a815-12bde1c38907",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Please add more payment options like PayPal.",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-12",
+        "user_email": "harmonheather@jensen-santana.com",
+        "user_id": "de70acf1-dd39-4855-b9b0-27fd8c10da26",
+        "review_text": "Amazing app, really easy to use. Would be great to have a live order tracking feature.",
+        "rating": 5
+    },
+    {
+        "date": "2025-05-06",
+        "user_email": "mcmahonlaura@gmail.com",
+        "user_id": "c51a3d90-f406-4cbd-b9e2-a8137c551df2",
+        "review_text": "I use this app almost daily, very reliable. App freezes when applying coupons.",
+        "rating": 2
+    },
+    {
+        "date": "2025-05-08",
+        "user_email": "whitejeffery@gonzalez.biz",
+        "user_id": "40c68156-17c8-4059-b47d-7b55fe95858a",
+        "review_text": "The delivery person was very polite. Can you include nutrition details for the dishes?",
+        "rating": 2
+    },
+    {
+        "date": "2025-04-14",
+        "user_email": "rbowman@yahoo.com",
+        "user_id": "8fff2ba7-54cb-4716-81d0-aa6addf4a52f",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-20",
+        "user_email": "donaldowen@gates-griffith.com",
+        "user_id": "490072ab-6fe5-44f3-b967-ae31ceaa9f50",
+        "review_text": "Loved the quick delivery and fresh food! I wish there was a loyalty points system.",
+        "rating": 3
+    },
+    {
+        "date": "2025-06-30",
+        "user_email": "jacob19@yahoo.com",
+        "user_id": "2b2400cc-9cca-4763-ad65-ac2b88748187",
+        "review_text": "I use this app almost daily, very reliable.",
+        "rating": 3
+    },
+    {
+        "date": "2025-07-14",
+        "user_email": "mossjonathan@yahoo.com",
+        "user_id": "c77d967f-f99a-4816-98c3-ef7642db619d",
+        "review_text": "Food arrived hot and well packed. Dark mode option would improve the app experience.",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-12",
+        "user_email": "travissanchez@harrell-curtis.com",
+        "user_id": "a92b9825-c2e1-469e-b33d-8b927c231fca",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 3
+    },
+    {
+        "date": "2025-03-18",
+        "user_email": "lmartinez@klein.org",
+        "user_id": "03bd8829-27a0-42ee-afd0-773ad132ced0",
+        "review_text": "Loved the quick delivery and fresh food!",
+        "rating": 4
+    },
+    {
+        "date": "2025-07-31",
+        "user_email": "kenneth05@boyd.com",
+        "user_id": "c1f2521b-e31b-438e-b34d-c2ed78735aea",
+        "review_text": "The delivery person was very polite. Add a filter to search for healthier options.",
+        "rating": 1
+    },
+    {
+        "date": "2025-06-24",
+        "user_email": "juliariley@levine.info",
+        "user_id": "8a0252f1-5f2c-495a-9823-034f4fa4f96a",
+        "review_text": "The delivery person was very polite.",
+        "rating": 5
+    },
+    {
+        "date": "2025-08-04",
+        "user_email": "angela88@jones.com",
+        "user_id": "3e1eac82-bd48-4b30-9c41-ada510ec9d1f",
+        "review_text": "Loved the quick delivery and fresh food! App keeps crashing when I try to checkout.",
+        "rating": 2
+    },
+    {
+        "date": "2025-07-17",
+        "user_email": "stevensongary@hotmail.com",
+        "user_id": "9ca6fcaa-841b-49c3-8890-5085084c115c",
+        "review_text": "Sometimes delivery takes a bit longer, but overall good. Can you include nutrition details for the dishes?",
+        "rating": 4
+    },
+    {
+        "date": "2025-05-13",
+        "user_email": "grayphilip@skinner.info",
+        "user_id": "c9ec5d0d-0cc9-4d31-994c-1db82fc3e043",
+        "review_text": "The delivery person was very polite. Sometimes my order disappears from the cart.",
+        "rating": 3
+    }
+]
